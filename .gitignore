@@ -1,0 +1,1183 @@
+
+autostart/bspwm.desktop
+autostart/compton.desktop
+autostart/sxhkd.desktop
+autostart/telegram.desktop
+containers/libpod.conf
+containers/storage.conf
+dconf/user
+GitHub Desktop/Cache/10d3bc058a1cc330_0
+GitHub Desktop/Cache/14ef829cc1a12e80_0
+GitHub Desktop/Cache/156b0b607228a85b_0
+GitHub Desktop/Cache/1a67cdeec0c3524c_0
+GitHub Desktop/Cache/1eb6c1b4465d9e8f_0
+GitHub Desktop/Cache/491957230c97a738_0
+GitHub Desktop/Cache/56df350646b5284c_0
+GitHub Desktop/Cache/64e22e83385f819b_0
+GitHub Desktop/Cache/6f01ad0b49fb158e_0
+GitHub Desktop/Cache/6f5e3155f0d9d87c_0
+GitHub Desktop/Cache/700034dce3dc1c9d_0
+GitHub Desktop/Cache/7cebc85869b0add5_0
+GitHub Desktop/Cache/807d6a9ab8df1bc4_0
+GitHub Desktop/Cache/81bea1ddf288b6e0_0
+GitHub Desktop/Cache/99cd559325da775e_0
+GitHub Desktop/Cache/9bd27c2a9b72683d_0
+GitHub Desktop/Cache/a0587eab8a558007_0
+GitHub Desktop/Cache/ab7fab124c911445_0
+GitHub Desktop/Cache/b7d1531460aaaa9a_0
+GitHub Desktop/Cache/c7878759062238d0_0
+GitHub Desktop/Cache/cb68ae98b66a0ba9_0
+GitHub Desktop/Cache/d0e4161b0e4c1fbf_0
+GitHub Desktop/Cache/d568d78600eba4ee_0
+GitHub Desktop/Cache/f027edce4e6202aa_0
+GitHub Desktop/Cache/f167223f6f1e3ebf_0
+GitHub Desktop/Cache/f1a08c4810e85868_0
+GitHub Desktop/Cache/ff54835ee197368d_0
+GitHub Desktop/Cache/index
+GitHub Desktop/Cache/index-dir/the-real-index
+GitHub Desktop/databases/Databases.db
+GitHub Desktop/databases/Databases.db-journal
+GitHub Desktop/GPUCache/data_0
+GitHub Desktop/GPUCache/data_1
+GitHub Desktop/GPUCache/data_2
+GitHub Desktop/GPUCache/data_3
+GitHub Desktop/GPUCache/index
+GitHub Desktop/IndexedDB/file__0.indexeddb.leveldb/000003.log
+GitHub Desktop/IndexedDB/file__0.indexeddb.leveldb/CURRENT
+GitHub Desktop/IndexedDB/file__0.indexeddb.leveldb/LOCK
+GitHub Desktop/IndexedDB/file__0.indexeddb.leveldb/LOG
+GitHub Desktop/IndexedDB/file__0.indexeddb.leveldb/LOG.old
+GitHub Desktop/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+GitHub Desktop/Local Storage/leveldb/000003.log
+GitHub Desktop/Local Storage/leveldb/CURRENT
+GitHub Desktop/Local Storage/leveldb/LOCK
+GitHub Desktop/Local Storage/leveldb/LOG
+GitHub Desktop/Local Storage/leveldb/LOG.old
+GitHub Desktop/Local Storage/leveldb/MANIFEST-000001
+GitHub Desktop/logs/2019-10-18.desktop.production.log
+GitHub Desktop/logs/2019-11-02.desktop.production.log
+GitHub Desktop/logs/2019-11-12.desktop.production.log
+GitHub Desktop/Network Persistent State
+GitHub Desktop/QuotaManager
+GitHub Desktop/QuotaManager-journal
+GitHub Desktop/SingletonCookie
+GitHub Desktop/SingletonLock
+GitHub Desktop/SS
+GitHub Desktop/window-state.json
+gtk-2.0/gtkfilechooser.ini
+mimeapps.list
+pulse/692271aa9fc44a4a81525ffde28225bb-card-database.tdb
+pulse/692271aa9fc44a4a81525ffde28225bb-default-sink
+pulse/692271aa9fc44a4a81525ffde28225bb-default-source
+pulse/692271aa9fc44a4a81525ffde28225bb-device-volumes.tdb
+pulse/692271aa9fc44a4a81525ffde28225bb-stream-volumes.tdb
+pulse/cookie
+screenruler/settings.yml
+Thunar/accels.scm
+Thunar/uca.xml
+user-dirs.dirs
+user-dirs.locale
+vivaldi/AdverseAdSiteList.json
+vivaldi/BrowserMetrics-spare.pma
+vivaldi/CertificateRevocation/5512/_metadata/verified_contents.json
+vivaldi/CertificateRevocation/5512/crl-set
+vivaldi/CertificateRevocation/5512/LICENSE
+vivaldi/CertificateRevocation/5512/manifest.fingerprint
+vivaldi/CertificateRevocation/5512/manifest.json
+vivaldi/Default/.com.vivaldi.Vivaldi.u3rp4A
+vivaldi/Default/000015.ldb
+vivaldi/Default/000045.ldb
+vivaldi/Default/000052.ldb
+vivaldi/Default/000054.ldb
+vivaldi/Default/000056.ldb
+vivaldi/Default/000064.log
+vivaldi/Default/AutofillStrikeDatabase/000003.log
+vivaldi/Default/AutofillStrikeDatabase/CURRENT
+vivaldi/Default/AutofillStrikeDatabase/LOCK
+vivaldi/Default/AutofillStrikeDatabase/LOG
+vivaldi/Default/AutofillStrikeDatabase/LOG.old
+vivaldi/Default/AutofillStrikeDatabase/MANIFEST-000001
+vivaldi/Default/Bookmarks
+vivaldi/Default/BudgetDatabase/000003.log
+vivaldi/Default/BudgetDatabase/CURRENT
+vivaldi/Default/BudgetDatabase/LOCK
+vivaldi/Default/BudgetDatabase/LOG
+vivaldi/Default/BudgetDatabase/LOG.old
+vivaldi/Default/BudgetDatabase/MANIFEST-000001
+vivaldi/Default/Calendar
+vivaldi/Default/Calendar-journal
+vivaldi/Default/Contacts
+vivaldi/Default/Contacts-journal
+vivaldi/Default/Cookies
+vivaldi/Default/Cookies-journal
+vivaldi/Default/CURRENT
+vivaldi/Default/Current Session
+vivaldi/Default/Current Tabs
+vivaldi/Default/data_reduction_proxy_leveldb/000047.log
+vivaldi/Default/data_reduction_proxy_leveldb/CURRENT
+vivaldi/Default/data_reduction_proxy_leveldb/LOCK
+vivaldi/Default/data_reduction_proxy_leveldb/LOG
+vivaldi/Default/data_reduction_proxy_leveldb/LOG.old
+vivaldi/Default/data_reduction_proxy_leveldb/MANIFEST-000046
+vivaldi/Default/databases/Databases.db
+vivaldi/Default/databases/Databases.db-journal
+vivaldi/Default/databases/https_mail.google.com_0/3
+vivaldi/Default/DownloadMetadata
+vivaldi/Default/Extension Rules/000003.log
+vivaldi/Default/Extension Rules/CURRENT
+vivaldi/Default/Extension Rules/LOCK
+vivaldi/Default/Extension Rules/LOG
+vivaldi/Default/Extension Rules/LOG.old
+vivaldi/Default/Extension Rules/MANIFEST-000001
+vivaldi/Default/Extension State/000005.ldb
+vivaldi/Default/Extension State/000018.log
+vivaldi/Default/Extension State/000020.ldb
+vivaldi/Default/Extension State/CURRENT
+vivaldi/Default/Extension State/LOCK
+vivaldi/Default/Extension State/LOG
+vivaldi/Default/Extension State/LOG.old
+vivaldi/Default/Extension State/MANIFEST-000001
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/1p-filters.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/3p-filters.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/ar/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/az/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/bg/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/bn/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/bs/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/ca/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/cs/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/cv/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/da/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/de/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/el/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/en/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/en_GB/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/eo/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/es/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/et/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/eu/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/fa/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/fi/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/fil/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/fr/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/fy/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/gl/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/he/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/hi/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/hr/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/hu/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/id/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/it/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/ja/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/ka/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/kk/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/kn/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/ko/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/lt/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/lv/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/ml/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/mr/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/ms/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/nb/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/nl/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/no/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/pl/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/pt_BR/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/pt_PT/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/ro/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/ru/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/sk/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/sl/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/sq/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/sr/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/sv/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/ta/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/te/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/th/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/tr/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/uk/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/ur/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/vi/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/zh_CN/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_locales/zh_TW/messages.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/_metadata/verified_contents.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/about.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/advanced-settings.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/asset-viewer.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/assets.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/resources/scriptlets.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/thirdparties/easylist-downloads.adblockplus.org/easylist.txt
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/thirdparties/easylist-downloads.adblockplus.org/easyprivacy.txt
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/thirdparties/mirror1.malwaredomains.com/files/justdomains
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/thirdparties/mirror1.malwaredomains.com/files/README.md
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/thirdparties/pgl.yoyo.org/as/README.md
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/thirdparties/pgl.yoyo.org/as/serverlist
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/thirdparties/publicsuffix.org/list/effective_tld_names.dat
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/thirdparties/www.malwaredomainlist.com/hostslist/hosts.txt
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/thirdparties/www.malwaredomainlist.com/hostslist/README.md
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/ublock/badware.txt
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/ublock/experimental.txt
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/ublock/filters.txt
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/ublock/legacy.txt
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/ublock/privacy.txt
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/ublock/resource-abuse.txt
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/assets/ublock/unbreak.txt
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/background.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/cloud-ui.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/1p-filters.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/3p-filters.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/advanced-settings.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/benchmarks.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/cloud-ui.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/codemirror.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/common.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/dashboard-common.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/dashboard.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/document-blocked.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/dyna-rules.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/fa-icons.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/fonts/fontawesome-webfont.ttf
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/fonts/OFL.txt
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/logger-ui-inspector.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/logger-ui.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/popup.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/settings.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/shortcuts.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/css/whitelist.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/dashboard.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/document-blocked.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/dyna-rules.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/epicker.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/img/cloud.png
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/img/fontawesome/fontawesome-defs.svg
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/img/fontawesome/LICENSE.txt
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/img/help16.png
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/img/icon_128.png
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/img/icon_16-off.png
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/img/icon_16.png
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/img/icon_32-off.png
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/img/icon_32.png
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/img/icon_64.png
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/img/ublock-defs.svg
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/img/ublock.svg
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/is-webrtc-supported.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/1p-filters.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/3p-filters.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/about.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/advanced-settings.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/asset-viewer.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/assets.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/background.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/cachestorage.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/cloud-ui.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/codemirror/search.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/codemirror/ubo-dynamic-filtering.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/codemirror/ubo-static-filtering.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/commands.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/console.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/contentscript.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/contextmenu.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/cosmetic-filtering.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/dashboard-common.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/dashboard.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/document-blocked.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/dyna-rules.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/dynamic-net-filtering.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/fa-icons.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/filtering-context.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/hnswitches.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/hntrie.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/html-filtering.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/i18n.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/is-webrtc-supported.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/logger-ui-inspector.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/logger-ui.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/logger.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/lz4.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/messaging.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/pagestore.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/popup.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/redirect-engine.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/reverselookup-worker.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/reverselookup.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/scriptlet-filtering.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/scriptlets/cosmetic-logger.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/scriptlets/cosmetic-off.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/scriptlets/cosmetic-on.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/scriptlets/dom-inspector.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/scriptlets/dom-survey.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/scriptlets/element-picker.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/scriptlets/load-large-media-all.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/scriptlets/load-large-media-interactive.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/scriptlets/noscript-spoof.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/scriptlets/should-inject-contentscript.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/scriptlets/subscriber.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/settings.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/shortcuts.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/start.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/static-ext-filtering.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/static-net-filtering.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/storage.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/strie.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/tab.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/text-encode.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/traffic.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/ublock.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/udom.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/uritools.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/url-net-filtering.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/utils.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/vapi-background.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/vapi-client-extra.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/vapi-client.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/vapi-common.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/vapi-webrequest.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/vapi.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/wasm/hntrie.wasm
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/wasm/hntrie.wat
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/wasm/README.md
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/webext.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/js/whitelist.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/codemirror/addon/display/panel.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/codemirror/addon/merge/merge.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/codemirror/addon/merge/merge.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/codemirror/addon/scroll/annotatescrollbar.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/codemirror/addon/search/matchesonscrollbar.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/codemirror/addon/search/matchesonscrollbar.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/codemirror/addon/search/searchcursor.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/codemirror/addon/selection/active-line.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/codemirror/lib/codemirror.css
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/codemirror/lib/codemirror.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/codemirror/LICENSE
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/codemirror/README.md
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/diff/README.md
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/diff/swatinem_diff.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/lz4/lz4-block-codec-any.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/lz4/lz4-block-codec-js.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/lz4/lz4-block-codec-wasm.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/lz4/lz4-block-codec.wasm
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/lz4/lz4-block-codec.wat
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/lz4/README.md
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/publicsuffixlist/publicsuffixlist.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/publicsuffixlist/wasm/publicsuffixlist.wasm
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/publicsuffixlist/wasm/publicsuffixlist.wat
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/publicsuffixlist/wasm/README.md
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/lib/punycode.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/LICENSE.txt
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/logger-ui.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/managed_storage.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/manifest.json
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/popup.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/settings.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/shortcuts.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/1x1.gif
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/2x2.png
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/32x32.png
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/3x2.png
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/addthis_widget.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/amazon_ads.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/ampproject_v0.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/chartbeat.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/disqus_embed.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/disqus_forums_embed.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/doubleclick_instream_ad_status.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/empty
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/google-analytics_analytics.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/google-analytics_cx_api.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/google-analytics_ga.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/google-analytics_inpage_linkid.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/googlesyndication_adsbygoogle.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/googletagmanager_gtm.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/googletagservices_gpt.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/hd-main.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/ligatus_angular-tag.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/monkeybroker.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/nobab.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/noeval-silent.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/noeval.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/nofab.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/noop-0.1s.mp3
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/noop-1s.mp4
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/noop.html
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/noop.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/noop.txt
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/outbrain-widget.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/popads-dummy.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/popads.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/README.txt
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/scorecardresearch_beacon.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/web_accessible_resources/window.open-defuser.js
+vivaldi/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.23.0_0/whitelist.html
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/_metadata/verified_contents.json
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/background.entry.js
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/background.entry.js.map
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/batch-icons-webfont.woff
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/css-off-small.png
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/css-off.png
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/css-on-small.png
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/css-on.png
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/foreground.entry.js
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/foreground.entry.js.map
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/icon128.png
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/icon48.png
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/LICENSE
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/manifest.json
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/options.css
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/options.entry.js
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/options.entry.js.map
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/options.html
+vivaldi/Default/Extensions/kbmfpngjjgdllneeigpgjifpgocmfgmb/5.18.6_0/res.css
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/_locales/en/messages.json
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/_locales/fr/messages.json
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/_locales/it/messages.json
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/_locales/pt_BR/messages.json
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/_locales/pt_pt/messages.json
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/_locales/ru/messages.json
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/_metadata/verified_contents.json
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/background.js
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/config.js
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/content.css
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/content.js
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/help/index.html
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/help/index_en.html
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/help/styles.css
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icon.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/close.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/downvote.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/IconSponsorBlocker16px.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/IconSponsorBlocker256px.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/IconSponsorBlocker32px.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/LogoSponsorBlocker128px.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/LogoSponsorBlocker256px.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/LogoSponsorBlocker64px.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/PlayerDeleteIconSponsorBlocker256px.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/PlayerInfoIconSponsorBlocker256px.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/PlayerStartIconSponsorBlocker256px.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/PlayerStopIconSponsorBlocker256px.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/PlayerUploadFailedIconSponsorBlocker256px.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/PlayerUploadIconSponsorBlocker256px.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/report.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/upvote.png
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/icons/upvote.svg
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/libs/Source+Sans+Pro.css
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/LICENSE
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/manifest.json
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/popup.css
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/popup.html
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/popup.js
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/utils.js
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/utils/previewBar.js
+vivaldi/Default/Extensions/mnjggcdmjocbbbhaepdhchncahnbgone/1.1.9.2_0/utils/skipNotice.js
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/bg/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/ca/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/cs/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/da/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/de/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/en/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/en_GB/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/es/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/et/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/fa/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/fi/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/fr/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/he/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/hi/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/hr/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/hu/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/id/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/it/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/ja/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/ko/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/nb/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/nl/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/pl/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/pt_BR/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/pt_PT/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/ro/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/ru/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/sk/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/sv/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/th/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/tr/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/uk/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/vi/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/zh_CN/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_locales/zh_TW/messages.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/_metadata/verified_contents.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/background.html
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/background.js
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/background.js.map
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/content/autofill.css
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/content/autofill.js
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/content/autofiller.js
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/content/notificationBar.js
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/content/shortcuts.js
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon128.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon128_gray.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon16.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon16_gray.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon18_safari.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon18_safari@2x.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon18_safari_locked.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon18_safari_locked@2x.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon19.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon19_gray.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon19_locked.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon32.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon32_gray.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon38.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon38_gray.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon38_locked.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon48.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon48_gray.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon96.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/images/icon96_gray.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/manifest.json
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/notification/bar.css
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/notification/bar.html
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/notification/bar.js
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/fonts/fontawesome-webfont.woff
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/fonts/fontawesome-webfont.woff2
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/fonts/Open_Sans-italic-300.woff
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/fonts/Open_Sans-italic-400.woff
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/fonts/Open_Sans-italic-600.woff
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/fonts/Open_Sans-italic-700.woff
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/fonts/Open_Sans-italic-800.woff
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/fonts/Open_Sans-normal-300.woff
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/fonts/Open_Sans-normal-400.woff
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/fonts/Open_Sans-normal-600.woff
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/fonts/Open_Sans-normal-700.woff
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/fonts/Open_Sans-normal-800.woff
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/images/fa-globe.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/images/loading.svg
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/images/logo-dark@2x.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/images/logo-white@2x.png
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/images/u2fkey.jpg
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/images/yubikey.jpg
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/index.html
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/main.css
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/main.js
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/main.js.map
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/popup/vendor.js
+vivaldi/Default/Extensions/nngceckbapebfimnlniiiahkandclblb/1.41.0_0/vendor.js
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/am/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/ar/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/bg/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/bn/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/ca/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/cs/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/da/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/de/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/el/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/en/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/es/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/et/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/fa/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/fi/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/fil/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/fr/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/gu/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/hi/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/hr/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/hu/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/id/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/it/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/iw/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/ja/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/kn/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/ko/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/lt/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/lv/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/ml/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/mr/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/ms/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/nb/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/nl/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/pl/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/pt/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/ro/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/ru/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/sk/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/sl/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/sr/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/sv/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/sw/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/ta/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/te/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/th/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/tr/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/uk/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/vi/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/zh/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_locales/zh_TW/messages.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/_metadata/verified_contents.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/angular.js
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/background_script.js
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/cast_sender.js
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/cast_setup/cast_app.js
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/cast_setup/cast_app_min.css
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/cast_setup/cast_app_redirect.js
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/cast_setup/chromecast_logo_grey.png
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/cast_setup/devices.html
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/cast_setup/index.html
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/cast_setup/offers.html
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/cast_setup/setup.html
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/common.js
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/feedback.css
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/feedback.html
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/feedback_script.js
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/manifest.json
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/material_css_min.css
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/mirroring_cast_streaming.js
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/mirroring_common.js
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/mirroring_hangouts.js
+vivaldi/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7819.902.0.1_0/mirroring_webrtc.js
+vivaldi/Default/Favicons
+vivaldi/Default/Favicons-journal
+vivaldi/Default/File System/000/t/.usage
+vivaldi/Default/File System/000/t/Paths/000003.log
+vivaldi/Default/File System/000/t/Paths/CURRENT
+vivaldi/Default/File System/000/t/Paths/LOCK
+vivaldi/Default/File System/000/t/Paths/LOG
+vivaldi/Default/File System/000/t/Paths/MANIFEST-000001
+vivaldi/Default/File System/001/t/.usage
+vivaldi/Default/File System/001/t/Paths/000003.log
+vivaldi/Default/File System/001/t/Paths/CURRENT
+vivaldi/Default/File System/001/t/Paths/LOCK
+vivaldi/Default/File System/001/t/Paths/LOG
+vivaldi/Default/File System/001/t/Paths/LOG.old
+vivaldi/Default/File System/001/t/Paths/MANIFEST-000001
+vivaldi/Default/File System/002/t/.usage
+vivaldi/Default/File System/002/t/Paths/000003.log
+vivaldi/Default/File System/002/t/Paths/CURRENT
+vivaldi/Default/File System/002/t/Paths/LOCK
+vivaldi/Default/File System/002/t/Paths/LOG
+vivaldi/Default/File System/002/t/Paths/MANIFEST-000001
+vivaldi/Default/File System/003/t/.usage
+vivaldi/Default/File System/003/t/Paths/000003.log
+vivaldi/Default/File System/003/t/Paths/CURRENT
+vivaldi/Default/File System/003/t/Paths/LOCK
+vivaldi/Default/File System/003/t/Paths/LOG
+vivaldi/Default/File System/003/t/Paths/MANIFEST-000001
+vivaldi/Default/File System/Origins/000003.log
+vivaldi/Default/File System/Origins/CURRENT
+vivaldi/Default/File System/Origins/LOCK
+vivaldi/Default/File System/Origins/LOG
+vivaldi/Default/File System/Origins/LOG.old
+vivaldi/Default/File System/Origins/MANIFEST-000001
+vivaldi/Default/GCM Store/000003.log
+vivaldi/Default/GCM Store/CURRENT
+vivaldi/Default/GCM Store/Encryption/000003.log
+vivaldi/Default/GCM Store/Encryption/CURRENT
+vivaldi/Default/GCM Store/Encryption/LOCK
+vivaldi/Default/GCM Store/Encryption/LOG
+vivaldi/Default/GCM Store/Encryption/LOG.old
+vivaldi/Default/GCM Store/Encryption/MANIFEST-000001
+vivaldi/Default/GCM Store/LOCK
+vivaldi/Default/GCM Store/LOG
+vivaldi/Default/GCM Store/LOG.old
+vivaldi/Default/GCM Store/MANIFEST-000001
+vivaldi/Default/GPUCache/data_0
+vivaldi/Default/GPUCache/data_1
+vivaldi/Default/GPUCache/data_2
+vivaldi/Default/GPUCache/data_3
+vivaldi/Default/GPUCache/f_000001
+vivaldi/Default/GPUCache/f_000002
+vivaldi/Default/GPUCache/index
+vivaldi/Default/heavy_ad_intervention_opt_out.db
+vivaldi/Default/heavy_ad_intervention_opt_out.db-journal
+vivaldi/Default/History
+vivaldi/Default/History Provider Cache
+vivaldi/Default/History-journal
+vivaldi/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000003.log
+vivaldi/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/CURRENT
+vivaldi/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/LOCK
+vivaldi/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/LOG
+vivaldi/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/LOG.old
+vivaldi/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+vivaldi/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log
+vivaldi/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/CURRENT
+vivaldi/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/LOCK
+vivaldi/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/LOG
+vivaldi/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/LOG.old
+vivaldi/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+vivaldi/Default/IndexedDB/https_twitter.com_0.indexeddb.blob/3/00/10
+vivaldi/Default/Local App Settings/mpognobbkildjkofajifpdfhcoklimli/000003.log
+vivaldi/Default/Local App Settings/mpognobbkildjkofajifpdfhcoklimli/CURRENT
+vivaldi/Default/Local App Settings/mpognobbkildjkofajifpdfhcoklimli/LOCK
+vivaldi/Default/Local App Settings/mpognobbkildjkofajifpdfhcoklimli/LOG
+vivaldi/Default/Local App Settings/mpognobbkildjkofajifpdfhcoklimli/LOG.old
+vivaldi/Default/Local App Settings/mpognobbkildjkofajifpdfhcoklimli/MANIFEST-000001
+vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000005.ldb
+vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000054.ldb
+vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000055.ldb
+vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000056.ldb
+vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000058.ldb
+vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000059.log
+vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000060.ldb
+vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/CURRENT
+vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/LOCK
+vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/LOG
+vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/LOG.old
+vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+vivaldi/Default/Local Extension Settings/kbmfpngjjgdllneeigpgjifpgocmfgmb/000003.log
+vivaldi/Default/Local Extension Settings/kbmfpngjjgdllneeigpgjifpgocmfgmb/CURRENT
+vivaldi/Default/Local Extension Settings/kbmfpngjjgdllneeigpgjifpgocmfgmb/LOCK
+vivaldi/Default/Local Extension Settings/kbmfpngjjgdllneeigpgjifpgocmfgmb/LOG
+vivaldi/Default/Local Extension Settings/kbmfpngjjgdllneeigpgjifpgocmfgmb/LOG.old
+vivaldi/Default/Local Extension Settings/kbmfpngjjgdllneeigpgjifpgocmfgmb/MANIFEST-000001
+vivaldi/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/000021.log
+vivaldi/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/000024.ldb
+vivaldi/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/CURRENT
+vivaldi/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/LOCK
+vivaldi/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/LOG
+vivaldi/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/LOG.old
+vivaldi/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
+vivaldi/Default/Local Storage/leveldb/000005.ldb
+vivaldi/Default/Local Storage/leveldb/001098.log
+vivaldi/Default/Local Storage/leveldb/001100.ldb
+vivaldi/Default/Local Storage/leveldb/001101.ldb
+vivaldi/Default/Local Storage/leveldb/CURRENT
+vivaldi/Default/Local Storage/leveldb/LOCK
+vivaldi/Default/Local Storage/leveldb/LOG
+vivaldi/Default/Local Storage/leveldb/LOG.old
+vivaldi/Default/Local Storage/leveldb/MANIFEST-000001
+vivaldi/Default/LOCK
+vivaldi/Default/LOG
+vivaldi/Default/LOG.old
+vivaldi/Default/Login Data
+vivaldi/Default/Login Data-journal
+vivaldi/Default/Managed Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000003.log
+vivaldi/Default/Managed Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/CURRENT
+vivaldi/Default/Managed Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/LOCK
+vivaldi/Default/Managed Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/LOG
+vivaldi/Default/Managed Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/LOG.old
+vivaldi/Default/Managed Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+vivaldi/Default/MANIFEST-000063
+vivaldi/Default/Network Action Predictor
+vivaldi/Default/Network Action Predictor-journal
+vivaldi/Default/Network Persistent State
+vivaldi/Default/Notes
+vivaldi/Default/Platform Notifications/000003.log
+vivaldi/Default/Platform Notifications/CURRENT
+vivaldi/Default/Platform Notifications/LOCK
+vivaldi/Default/Platform Notifications/LOG
+vivaldi/Default/Platform Notifications/LOG.old
+vivaldi/Default/Platform Notifications/MANIFEST-000001
+vivaldi/Default/Preferences
+vivaldi/Default/previews_opt_out.db
+vivaldi/Default/previews_opt_out.db-journal
+vivaldi/Default/QuotaManager
+vivaldi/Default/QuotaManager-journal
+vivaldi/Default/README
+vivaldi/Default/Secure Preferences
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/b897ab4f-3fdc-4a30-8e9e-d63855edb3ba/29213d2ab33b53bc_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/b897ab4f-3fdc-4a30-8e9e-d63855edb3ba/index
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/b897ab4f-3fdc-4a30-8e9e-d63855edb3ba/index-dir/the-real-index
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/c1e48f89-2c7a-428f-b98e-93a34e7c3a16/5c6e59085d627515_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/c1e48f89-2c7a-428f-b98e-93a34e7c3a16/616e52a460fa79f9_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/c1e48f89-2c7a-428f-b98e-93a34e7c3a16/8c70067b4b429858_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/c1e48f89-2c7a-428f-b98e-93a34e7c3a16/index
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/c1e48f89-2c7a-428f-b98e-93a34e7c3a16/index-dir/the-real-index
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/03f8c9c153f6e94a_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/03f8c9c153f6e94a_1
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/11ccff9546de7c70_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/17a0613529125de1_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/1aeaf40867d36683_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/1e81fcedee29bce7_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/210911d0c4c8af93_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/25dd49d27a8882d7_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/266c29ba39b26d61_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/2bdd581e3e965e59_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/39f6a47fb0c6e04a_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/42af165fb16ee52a_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/4d342a55716072db_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/4f88566ba1312da2_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/52793cfb86891c11_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/5502c50f75f60cf7_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/553eeaeda5814dc5_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/5595912898a3de93_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/5826a4652dc94f0d_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/5826a4652dc94f0d_1
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/59214ba81680a996_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/5b8a2002f171284f_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/6514c03c83bd54f6_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/697ecc1ef3091c8b_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/6dac39faeab809d0_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/6deec10055e65ca5_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/71a68c4ffa8398f4_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/75f024b79a05fcb3_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/7b376cf27fe8c782_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/829ee62d7c01b24d_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/8b01ff6b889de9ed_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/8c467fb3631f292e_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/8f0bf9278c9ee63f_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/957cb5a4f3aa10bb_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/957cb5a4f3aa10bb_1
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/96190920b91d548d_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/9bcf707fc962f015_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/9c7ad0d6515c5f73_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/9c8e7d16147dffdf_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/9c8e7d16147dffdf_1
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/9dc0c9049f39b0a2_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/9fcb8446e9403ffb_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/a09da73f3f89e242_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/a8a306102064e46b_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/a8b3883c8b979cf1_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/b466d4ad40e595e4_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/b8a05d2e93c0b995_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/c4f4e62f3301f80c_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/c8a7295cb5de27ed_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/de61fa83ec847a5c_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/e99068f193463fcc_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/f034a78c93fa8153_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/f6f06d361bb796bb_0
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/index
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/d8e06428-6eaf-42dd-be92-cb604a3da85b/index-dir/the-real-index
+vivaldi/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/index.txt
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/0a77b650-bba9-43be-8780-bf73dfb481ce/af47be93e4c33dc6_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/0a77b650-bba9-43be-8780-bf73dfb481ce/index
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/0a77b650-bba9-43be-8780-bf73dfb481ce/index-dir/the-real-index
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/00de9e293dde9b91_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/00de9e293dde9b91_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/03246486b3f4c470_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/03246486b3f4c470_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/0454cfb7d2b33096_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/0454cfb7d2b33096_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/05e0da36b7476efd_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/05e0da36b7476efd_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/06bafa764d6f45b3_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/06bafa764d6f45b3_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/09129c7ff3cb1bc4_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/09129c7ff3cb1bc4_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/10c24e31ca32a9e8_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/10c24e31ca32a9e8_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/189fc25ece6e6705_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/189fc25ece6e6705_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/1a676548d89f972a_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/1a676548d89f972a_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/1b61b97c49d7cf58_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/1b61b97c49d7cf58_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/20e78918f0eaaff3_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/20e78918f0eaaff3_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/21325f4fc49ed4e4_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/21325f4fc49ed4e4_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/2270f24fb30ac75e_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/2270f24fb30ac75e_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/242b4e267304cca9_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/242b4e267304cca9_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/2534de1d32bac916_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/2534de1d32bac916_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/27a9f22f3441fd64_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/27a9f22f3441fd64_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/2eee7abedf4a12a0_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/2eee7abedf4a12a0_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/30664641868d931d_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/30664641868d931d_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/30acd3ae40f7c30d_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/30acd3ae40f7c30d_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/31961286dfc5c184_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/31961286dfc5c184_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/327716a904db9f59_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/327716a904db9f59_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/33f174b1ac135313_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/33f174b1ac135313_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/3a70ab979924333f_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/3a70ab979924333f_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/3ab02c14535d737a_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/3ab02c14535d737a_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/3adb244f4a601c12_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/3adb244f4a601c12_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/4017d8a061cc496a_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/4017d8a061cc496a_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/482d19c8f889f3e1_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/482d19c8f889f3e1_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/4a21085a149b96b5_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/4a21085a149b96b5_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/4b4196a4e0bc2fca_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/4b4196a4e0bc2fca_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/4e8c3c6f72cc18b2_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/4e8c3c6f72cc18b2_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/4ef8bd71484a1553_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/4ef8bd71484a1553_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/4f67ffdc7005d7cf_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/4f67ffdc7005d7cf_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/4f6c4d16654c7c2c_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/4f6c4d16654c7c2c_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/5867f7ad3330394b_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/5867f7ad3330394b_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/58d7f6ccd840e973_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/58d7f6ccd840e973_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/5a003b78dc81c8fa_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/5a003b78dc81c8fa_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/5f6d368aee40dd85_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/5f6d368aee40dd85_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/6326e788985c7a01_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/6326e788985c7a01_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/675861e5bb99e2b0_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/675861e5bb99e2b0_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/6882df98e6781b7c_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/6882df98e6781b7c_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/69ff7bea23286637_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/69ff7bea23286637_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/6b8c71843641028b_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/6b8c71843641028b_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/72da45a4929d2871_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/72da45a4929d2871_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/750a0ba10685fc31_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/750a0ba10685fc31_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/77c6c8181cfaca69_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/77c6c8181cfaca69_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/79ab63e8ea194e7f_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/79ab63e8ea194e7f_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/8a2c9233dc02892c_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/8a2c9233dc02892c_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/8bb680f3e4ab3419_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/8bb680f3e4ab3419_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/8d26b468d2fff162_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/8d26b468d2fff162_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/8e86f052125f25bf_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/8e86f052125f25bf_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/94e7454f5232df1b_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/94e7454f5232df1b_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/98b14bd9d279cac0_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/98b14bd9d279cac0_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/9d60e99c85d12f0e_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/9d60e99c85d12f0e_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/9fcb6f51a70e1f5f_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/9fcb6f51a70e1f5f_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/a2b4d194ffd07ced_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/a2b4d194ffd07ced_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/a9a478a553fdbfa6_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/a9a478a553fdbfa6_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/acc98f57455fd8d7_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/acc98f57455fd8d7_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/ade95d1410e0b2c9_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/ade95d1410e0b2c9_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/b00d2453181a38a4_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/b00d2453181a38a4_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/b032691261562e66_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/b032691261562e66_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/b18d91affcf29bdc_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/b18d91affcf29bdc_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/b20b885d1b85ecfc_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/b20b885d1b85ecfc_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/b67a25ce98d12fd6_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/b67a25ce98d12fd6_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/b93db600b909d7e0_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/b93db600b909d7e0_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/b96114a2d61f74a3_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/b96114a2d61f74a3_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/bca7ae00b044bf08_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/bca7ae00b044bf08_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/c2e854b4e525fd56_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/c2e854b4e525fd56_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/ce7920898e37430e_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/ce7920898e37430e_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/d0cbde5603aebf86_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/d0cbde5603aebf86_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/d47a75601a0af8ac_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/d47a75601a0af8ac_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/d5f4d9b936905fef_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/d5f4d9b936905fef_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/d7849c3bd7c7c823_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/d7849c3bd7c7c823_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/d80d9a3edabe63b4_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/d80d9a3edabe63b4_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/dcf2417aba5dbb9d_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/dcf2417aba5dbb9d_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/df1db3ae2513f4e0_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/df1db3ae2513f4e0_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/e4a3ccb3d0a11e34_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/e4a3ccb3d0a11e34_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/e4d1ef781d40546a_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/e4d1ef781d40546a_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/e88a64f9f06cb3d5_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/e88a64f9f06cb3d5_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/eee8adc08d77b692_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/eee8adc08d77b692_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/f18998d9cebf0b3c_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/f18998d9cebf0b3c_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/f1b8488558242d42_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/f1b8488558242d42_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/f6ab10b57433c57f_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/f6ab10b57433c57f_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/fcd759b1811407c7_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/fcd759b1811407c7_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/fdc2325e3756a7a1_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/fdc2325e3756a7a1_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/fece70047a0a7f92_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/fece70047a0a7f92_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/ff5e2f0ce54c1c9e_0
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/ff5e2f0ce54c1c9e_1
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/index
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/edb3a76c-6d2b-4bab-a39f-160b48bcd92c/index-dir/the-real-index
+vivaldi/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/index.txt
+vivaldi/Default/Service Worker/Database/000003.log
+vivaldi/Default/Service Worker/Database/CURRENT
+vivaldi/Default/Service Worker/Database/LOCK
+vivaldi/Default/Service Worker/Database/LOG
+vivaldi/Default/Service Worker/Database/LOG.old
+vivaldi/Default/Service Worker/Database/MANIFEST-000001
+vivaldi/Default/Service Worker/ScriptCache/8a729281c4672a97_0
+vivaldi/Default/Service Worker/ScriptCache/8a729281c4672a97_1
+vivaldi/Default/Service Worker/ScriptCache/index
+vivaldi/Default/Service Worker/ScriptCache/index-dir/the-real-index
+vivaldi/Default/Session Storage/000168.ldb
+vivaldi/Default/Session Storage/000201.ldb
+vivaldi/Default/Session Storage/000204.ldb
+vivaldi/Default/Session Storage/000206.log
+vivaldi/Default/Session Storage/000207.ldb
+vivaldi/Default/Session Storage/CURRENT
+vivaldi/Default/Session Storage/LOCK
+vivaldi/Default/Session Storage/LOG
+vivaldi/Default/Session Storage/LOG.old
+vivaldi/Default/Session Storage/MANIFEST-000001
+vivaldi/Default/shared_proto_db/LOCK
+vivaldi/Default/shared_proto_db/LOG
+vivaldi/Default/shared_proto_db/LOG.old
+vivaldi/Default/shared_proto_db/metadata/000003.log
+vivaldi/Default/shared_proto_db/metadata/CURRENT
+vivaldi/Default/shared_proto_db/metadata/LOCK
+vivaldi/Default/shared_proto_db/metadata/LOG
+vivaldi/Default/shared_proto_db/metadata/LOG.old
+vivaldi/Default/shared_proto_db/metadata/MANIFEST-000001
+vivaldi/Default/Shortcuts
+vivaldi/Default/Shortcuts-journal
+vivaldi/Default/Site Characteristics Database/000003.log
+vivaldi/Default/Site Characteristics Database/CURRENT
+vivaldi/Default/Site Characteristics Database/LOCK
+vivaldi/Default/Site Characteristics Database/LOG
+vivaldi/Default/Site Characteristics Database/LOG.old
+vivaldi/Default/Site Characteristics Database/MANIFEST-000001
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/GPUCache/data_0
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/GPUCache/data_1
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/GPUCache/data_2
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/GPUCache/data_3
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/GPUCache/f_000001
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/GPUCache/index
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Network Persistent State
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Platform Notifications/000003.log
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Platform Notifications/CURRENT
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Platform Notifications/LOCK
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Platform Notifications/LOG
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Platform Notifications/LOG.old
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Platform Notifications/MANIFEST-000001
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Session Storage/000003.log
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Session Storage/CURRENT
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Session Storage/LOCK
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Session Storage/LOG
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Session Storage/LOG.old
+vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Session Storage/MANIFEST-000001
+vivaldi/Default/Sync Data/LevelDB/000005.ldb
+vivaldi/Default/Sync Data/LevelDB/000321.ldb
+vivaldi/Default/Sync Data/LevelDB/000323.ldb
+vivaldi/Default/Sync Data/LevelDB/000324.log
+vivaldi/Default/Sync Data/LevelDB/000325.ldb
+vivaldi/Default/Sync Data/LevelDB/CURRENT
+vivaldi/Default/Sync Data/LevelDB/LOCK
+vivaldi/Default/Sync Data/LevelDB/LOG
+vivaldi/Default/Sync Data/LevelDB/LOG.old
+vivaldi/Default/Sync Data/LevelDB/MANIFEST-000001
+vivaldi/Default/Sync Data/SyncData.sqlite3
+vivaldi/Default/Sync Data/SyncData.sqlite3-journal
+vivaldi/Default/Sync Extension Settings/mnjggcdmjocbbbhaepdhchncahnbgone/000003.log
+vivaldi/Default/Sync Extension Settings/mnjggcdmjocbbbhaepdhchncahnbgone/CURRENT
+vivaldi/Default/Sync Extension Settings/mnjggcdmjocbbbhaepdhchncahnbgone/LOCK
+vivaldi/Default/Sync Extension Settings/mnjggcdmjocbbbhaepdhchncahnbgone/LOG
+vivaldi/Default/Sync Extension Settings/mnjggcdmjocbbbhaepdhchncahnbgone/LOG.old
+vivaldi/Default/Sync Extension Settings/mnjggcdmjocbbbhaepdhchncahnbgone/MANIFEST-000001
+vivaldi/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/000003.log
+vivaldi/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/CURRENT
+vivaldi/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/LOCK
+vivaldi/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/LOG
+vivaldi/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/LOG.old
+vivaldi/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/MANIFEST-000001
+vivaldi/Default/Top Sites
+vivaldi/Default/Top Sites-journal
+vivaldi/Default/TransportSecurity
+vivaldi/Default/VideoDecodeStats/000003.log
+vivaldi/Default/VideoDecodeStats/CURRENT
+vivaldi/Default/VideoDecodeStats/LOCK
+vivaldi/Default/VideoDecodeStats/LOG
+vivaldi/Default/VideoDecodeStats/LOG.old
+vivaldi/Default/VideoDecodeStats/MANIFEST-000001
+vivaldi/Default/Visited Links
+vivaldi/Default/Web Data
+vivaldi/Default/Web Data-journal
+vivaldi/Dictionaries/en-GB-8-0.bdic
+vivaldi/FileTypePolicies/37/_metadata/verified_contents.json
+vivaldi/FileTypePolicies/37/download_file_types.pb
+vivaldi/FileTypePolicies/37/manifest.fingerprint
+vivaldi/FileTypePolicies/37/manifest.json
+vivaldi/First Run
+vivaldi/InterventionPolicyDatabase/2018.9.6.0/_metadata/verified_contents.json
+vivaldi/InterventionPolicyDatabase/2018.9.6.0/intervention_policy_database.pb
+vivaldi/InterventionPolicyDatabase/2018.9.6.0/manifest.fingerprint
+vivaldi/InterventionPolicyDatabase/2018.9.6.0/manifest.json
+vivaldi/Local State
+vivaldi/Safe Browsing Cookies
+vivaldi/Safe Browsing Cookies-journal
+vivaldi/Safe Browsing/ChromeExtMalware.store
+vivaldi/Safe Browsing/IpMalware.store
+vivaldi/Safe Browsing/UrlBilling.store
+vivaldi/Safe Browsing/UrlMalBin.store
+vivaldi/Safe Browsing/UrlMalware.store
+vivaldi/Safe Browsing/UrlSoceng.store
+vivaldi/Safe Browsing/UrlUws.store
+vivaldi/SafetyTips/12/_metadata/verified_contents.json
+vivaldi/SafetyTips/12/manifest.fingerprint
+vivaldi/SafetyTips/12/manifest.json
+vivaldi/SafetyTips/12/safety_tips.pb
+vivaldi/ShaderCache/GPUCache/data_0
+vivaldi/ShaderCache/GPUCache/data_1
+vivaldi/ShaderCache/GPUCache/data_2
+vivaldi/ShaderCache/GPUCache/data_3
+vivaldi/ShaderCache/GPUCache/f_000001
+vivaldi/ShaderCache/GPUCache/f_000002
+vivaldi/ShaderCache/GPUCache/f_000003
+vivaldi/ShaderCache/GPUCache/f_000004
+vivaldi/ShaderCache/GPUCache/f_000005
+vivaldi/ShaderCache/GPUCache/f_000006
+vivaldi/ShaderCache/GPUCache/f_000007
+vivaldi/ShaderCache/GPUCache/f_000008
+vivaldi/ShaderCache/GPUCache/f_000009
+vivaldi/ShaderCache/GPUCache/f_00000a
+vivaldi/ShaderCache/GPUCache/f_00000b
+vivaldi/ShaderCache/GPUCache/f_00000c
+vivaldi/ShaderCache/GPUCache/f_00000d
+vivaldi/ShaderCache/GPUCache/f_00000e
+vivaldi/ShaderCache/GPUCache/f_00000f
+vivaldi/ShaderCache/GPUCache/f_000010
+vivaldi/ShaderCache/GPUCache/f_000011
+vivaldi/ShaderCache/GPUCache/f_000012
+vivaldi/ShaderCache/GPUCache/f_000013
+vivaldi/ShaderCache/GPUCache/f_000014
+vivaldi/ShaderCache/GPUCache/f_000015
+vivaldi/ShaderCache/GPUCache/f_000016
+vivaldi/ShaderCache/GPUCache/f_000017
+vivaldi/ShaderCache/GPUCache/f_000018
+vivaldi/ShaderCache/GPUCache/f_000019
+vivaldi/ShaderCache/GPUCache/f_00001a
+vivaldi/ShaderCache/GPUCache/f_00001b
+vivaldi/ShaderCache/GPUCache/f_00001c
+vivaldi/ShaderCache/GPUCache/f_00001d
+vivaldi/ShaderCache/GPUCache/f_00001e
+vivaldi/ShaderCache/GPUCache/f_00001f
+vivaldi/ShaderCache/GPUCache/f_000020
+vivaldi/ShaderCache/GPUCache/index
+vivaldi/SingletonCookie
+vivaldi/SingletonLock
+vivaldi/SingletonSocket
+vivaldi/SSLErrorAssistant/7/_metadata/verified_contents.json
+vivaldi/SSLErrorAssistant/7/manifest.fingerprint
+vivaldi/SSLErrorAssistant/7/manifest.json
+vivaldi/SSLErrorAssistant/7/ssl_error_assistant.pb
+vivaldi/Subresource Filter/Indexed Rules/26/9.6/Ruleset Data
+vivaldi/Subresource Filter/Unindexed Rules/9.6/_metadata/verified_contents.json
+vivaldi/Subresource Filter/Unindexed Rules/9.6/Filtering Rules
+vivaldi/Subresource Filter/Unindexed Rules/9.6/LICENSE.txt
+vivaldi/Subresource Filter/Unindexed Rules/9.6/manifest.fingerprint
+vivaldi/Subresource Filter/Unindexed Rules/9.6/manifest.json
+Yubico/YKPersonalization.conf
+Yubico/YubiKey Manager.conf
