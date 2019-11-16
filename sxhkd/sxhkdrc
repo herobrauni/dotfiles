@@ -4,7 +4,7 @@
 
 # terminal emulator
 alt + space
-	termite
+	xfce4-terminal
 
 # rofi program launcher
 alt + Return
@@ -23,8 +23,8 @@ alt + f
 	thunar
 
 # firefox
-alt + i
-	firefox
+alt + w
+	vivaldi-stable
 
 # tellico
 alt + t
@@ -47,8 +47,8 @@ alt + q
 	bspc node -c
 
 # move focused window to the next workspace and then switch to that workspace
-alt + shift + {Left,Right}
-	id=$(bspc query --nodes --node); bspc node --to-desktop {prev,next}; bspc desktop --focus next; bspc node --focus ${id}
+#alt + shift + {Left,Right}
+#	id=$(bspc query --nodes --node); bspc node --to-desktop {prev,next}; bspc desktop --focus next; bspc node --focus ${id}
 
 # set the node flag to private
 #alt + p
@@ -61,11 +61,11 @@ F1
 	bspc node @/ -R 90
 
 # circulate windows
-F2
+alt + F2
 	bspc node @/ -C forward
 
 # flip windows horizontal
-F3
+alt + F3
 	bspc node @/ -F horizontal
 
 # flip windows vertical
@@ -91,9 +91,39 @@ F6
 # === focus/swap ===
 
 # focus the next/previous node
-alt + {Up,Down}
+#alt + {Up,Down}
 	bspc node -f {prev,next}.local.!above
 
 # focus the next/previous desktop
-alt + {Left,Right}
+#alt + {Left,Right}
 	bspc desktop -f {prev,next}
+
+alt + {Left,Down,Up,Right}
+    bspc config pointer_follows_monitor true; \
+    bspc config pointer_follows_focus true; \
+    dir={west,south,north,east}; \
+        if ! bspc node -f $dir; then \
+    bspc monitor -f $dir; \
+    fi; \
+    bspc config pointer_follows_monitor false; \
+    bspc config pointer_follows_focus false
+
+
+alt + shift + {Left,Down,Up,Right}
+    bspc config pointer_follows_focus true; \
+    cur_win=$(bspc query -N -n); \
+    cur_mon=$(bspc query -M -m); \
+    dir={west,south,north,east}; \
+    if ! bspc node -f $dir; then \
+        bspc node -m $dir; \
+        bspc monitor -f $dir; \
+    else \
+        new_mon=$(bspc query -M -m); \
+        if [ $new_mon = $cur_mon ]; then \
+            bspc node -s $cur_win; \
+        else \
+            bspc node $cur_win -m $new_mon; \
+        fi; \
+    bspc node -f $cur_win; \
+    fi; \
+    bspc config pointer_follows_focus false

@@ -2,15 +2,37 @@
 
 sxhkd &
 
-bspc monitor -d I II III IV V VI VII
+# run the xrandr command if an external monitor is connected to the
+# laptop.  This must be executed before the polybar command, so that
+# polybar can set the two separate bars properly.
+#if [ -x /home/brauni/.config/bspwm/dual_monitor ];then
+#    sh /home/brauni/.config/bspwm/dual_monitor
+#fi
+
+
+
+#bspc monitor DVI-D-0 -d I II III IV 
+#bspc monitor HDMI-0 -d V VI VII VIII
+
+i=0
+n=`bspc query -M | wc -l`  # count number of lines in bspwm's monitor list
+per=$(( 4 / n ))          # number of desktops per monitor
+for monitor in `bspc query -M`; do
+    bspc monitor $monitor -d `seq $i $(( i + per - 1 ))` 
+    # seq is end-inclusive; `seq 1 $((1+2))` returns "1 2 3"
+    i=$(( i + per ))
+done
+
+bspc config remove_disabled_monitors true
+bspc config remove_unplugged_monitors true
 
 bspc config border_width        1
 bspc config window_gap          10
 
-bspc config top_padding 35
-bspc config left_padding 2
-bspc config right_padding 2
-bspc config bottom_padding 2
+bspc config top_padding 33
+bspc config left_padding 1
+bspc config right_padding 1
+bspc config bottom_padding 1
 
 bspc config split_ratio          0.52
 bspc config borderless_monocle   true
@@ -24,7 +46,4 @@ bspc config pointer_action1 move
 
 bspc rule -a Docky layer=above manage=on border=off focus=off locked=on
 bspc rule -a xfce4-notes floating=on
-bspc rule -a Firefox desktop=^1 follow=on
-bspc rule -a tellico desktop=^2 follow=on
-bspc rule -a quassel desktop=^6 follow=on
-bspc rule -a deluge desktop=^7 follow=on
+

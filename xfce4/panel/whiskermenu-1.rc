@@ -1,5 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,xfce4-taskmanager.desktop,org.gnome.Packages.desktop,vlc.desktop,io.elementary.music.desktop,mousepad.desktop,xfce4-screenshooter.desktop,xfburn.desktop,xfce-settings-manager.desktop
-recent=thunar.desktop,xfce4-power-manager-settings.desktop,xfce4-session-logout.desktop,exo-terminal-emulator.desktop,gnome-screenruler.desktop,yubikey-personalization-gui.desktop,ykman-gui.desktop,telegramdesktop.desktop
+recent=nvidia-settings.desktop,arandr.desktop,org.gnome.FileRoller.desktop,com.teamviewer.TeamViewer.desktop,thunar.desktop,xfce4-power-manager-settings.desktop,xfce4-session-logout.desktop,exo-terminal-emulator.desktop,yubikey-personalization-gui.desktop,ykman-gui.desktop
 button-title=Menu
 button-icon=/usr/share/pixmaps/anarchy-icon.png
 button-single-row=false
@@ -21,8 +21,8 @@ position-commands-alternate=false
 position-categories-alternate=false
 stay-on-focus-out=false
 confirm-session-command=true
-menu-width=903
-menu-height=1021
+menu-width=576
+menu-height=659
 menu-opacity=92
 command-settings=xfce4-settings-manager
 show-command-settings=true
