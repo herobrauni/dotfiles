@@ -90,25 +90,18 @@ F6
 
 # === focus/swap ===
 
-# switches focus to windows (left right) / cycles desktops (prev next)
-alt + {Left,Right}
-    bspc config pointer_follows_monitor true; \
-    bspc config pointer_follows_focus true; \
-    dir={west,east}; \
-    dir_mon={prev,next}; \
-        if ! bspc node -f $dir; then \
-            if ! bspc monitor -f $dir; then \
-                bspc desktop -f $dir_mon; \
-        fi; \
-    fi; \
-    bspc config pointer_follows_monitor false; \
-    bspc config pointer_follows_focus false
+# focus the next/previous node
+#alt + {Up,Down}
+	bspc node -f {prev,next}.local.!above
 
-# switches focus to windows (down up)
-alt + {Down,Up}
+# focus the next/previous desktop
+#alt + {Left,Right}
+	bspc desktop -f {prev,next}
+
+alt + {Left,Down,Up,Right}
     bspc config pointer_follows_monitor true; \
     bspc config pointer_follows_focus true; \
-    dir={south,north}; \
+    dir={west,south,north,east}; \
         if ! bspc node -f $dir; then \
             if ! bspc monitor -f $dir; then \
             bspc desktop -f next; \
@@ -118,36 +111,11 @@ alt + {Down,Up}
     bspc config pointer_follows_focus false
 
 
-alt + shift + {Left,Right}
+alt + shift + {Left,Down,Up,Right}
     bspc config pointer_follows_focus true; \
     cur_win=$(bspc query -N -n); \
     cur_mon=$(bspc query -M -m); \
-    dir={west,east}; \
-    dir_mon={prev,next}; \
-    if ! bspc node -f $dir; then \
-        if ! bspc node -m $dir; then \
-            bspc node -d $dir_mon; \
-            bspc dektop -f $dir_mon; \
-        else \
-            bspc monitor -f $dir; \
-        fi; \
-    else \
-        new_mon=$(bspc query -M -m); \
-        if [ $new_mon = $cur_mon ]; then \
-            bspc node -s $cur_win; \
-        else \
-            bspc node $cur_win -m $new_mon; \
-        fi; \
-    bspc node -f $cur_win; \
-    fi; \
-    bspc config pointer_follows_focus false
-
-
-alt + shift + {Down,Up}
-    bspc config pointer_follows_focus true; \
-    cur_win=$(bspc query -N -n); \
-    cur_mon=$(bspc query -M -m); \
-    dir={south,north}; \
+    dir={west,south,north,east}; \
     if ! bspc node -f $dir; then \
         bspc node -m $dir; \
         bspc monitor -f $dir; \
