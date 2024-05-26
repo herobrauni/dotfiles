@@ -16,9 +16,9 @@ antigen use oh-my-zsh
 antigen bundle ansible
 antigen bundle git
 antigen bundle pip
+antigen bundle kubectl
 antigen bundle command-not-found
 antigen bundle colorize
-antigen bundle magic-enter
 antigen bundle safe-paste
 antigen bundle thefuck
 antigen bundle dirhistory
