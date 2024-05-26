@@ -40,4 +40,4 @@ antigen apply
 
 export EDITOR="micro"
 alias update="sudo apt update && sudo apt upgrade -y"
-
+alias nano="micro"
