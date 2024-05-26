@@ -6,7 +6,6 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
 fi
 
 fpath=(~/.config/zsh-completions $fpath)
-export EDITOR="micro"
 source /usr/share/zsh-antigen/antigen.zsh
 source ~/.profile
 
@@ -14,11 +13,12 @@ source ~/.profile
 antigen use oh-my-zsh
 
 # Bundles from the default repo (robbyrussell's oh-my-zsh).
+antigen bundle ansible
 antigen bundle git
 antigen bundle pip
-antigen bundle kubectl
 antigen bundle command-not-found
 antigen bundle colorize
+antigen bundle magic-enter
 antigen bundle safe-paste
 antigen bundle thefuck
 antigen bundle dirhistory
