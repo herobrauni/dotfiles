@@ -9,6 +9,10 @@ fpath=(~/.config/zsh-completions $fpath)
 source /usr/share/zsh-antigen/antigen.zsh
 source ~/.profile
 
+export EDITOR="micro"
+
+alias update="sudo apt update && sudo apt upgrade -y"
+
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
 
