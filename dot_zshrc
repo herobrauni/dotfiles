@@ -40,6 +40,9 @@ antigen apply
 
 export EDITOR="micro"
 
+
+echo "Sourcing .zshrc"
+
 alias update="sudo apt update && sudo apt upgrade -y"
 alias update="git add -A && git commit -m $1 && git push"
 
