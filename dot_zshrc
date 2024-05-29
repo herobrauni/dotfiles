@@ -39,6 +39,8 @@ antigen apply
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 export EDITOR="micro"
+
 alias update="sudo apt update && sudo apt upgrade -y"
+alias update="git add -A && git commit -m $1 && git push"
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
