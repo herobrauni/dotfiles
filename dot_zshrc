@@ -41,4 +41,5 @@ echo "Sourcing .zshrc"
 alias update="sudo apt update && sudo apt upgrade -y"
 alias gpush="git add -A && git commit -m $1 && git push"
 
+
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
