@@ -30,7 +30,8 @@ antigen bundle zsh-users/zsh-completions
 antigen bundle ael-code/zsh-colored-man-pages
 
 # Load the theme.
-antigen theme romkatv/powerlevel10k
+THEME=romkatv/powerlevel10k
+[[ `antigen list | grep $THEME | wc -l` -gt 0 ]] || antigen theme $THEME
 
 # Tell Antigen that you're done.
 antigen apply
