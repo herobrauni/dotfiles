@@ -40,5 +40,5 @@ antigen apply
 
 export EDITOR="micro"
 alias update="sudo apt update && sudo apt upgrade -y"
-alias gpush="git add . && git commit -m 'bla' && git push"
-alias mc="micro"
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
