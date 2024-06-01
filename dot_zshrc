@@ -7,7 +7,6 @@ fi
 
 fpath=(~/.config/zsh-completions $fpath)
 source /usr/share/zsh-antigen/antigen.zsh
-source ~/.profile
 
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
@@ -44,5 +43,3 @@ export EDITOR="micro"
 alias update="sudo apt update && sudo apt upgrade -y"
 # alias gpush="git add -A && git commit -m $1 && git push".
 function gpush(){ git add -A && git commit -m $1 && git push }
-
-eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
