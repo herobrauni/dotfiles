@@ -49,6 +49,3 @@ RUN chezmoi init --apply https://github.com/herobrauni/dotfiles.git
 # Set the default shell for the user
 RUN chsh -s $(which zsh) $USERNAME
 
-# Copy entrypoint script if available
-COPY entrypoint.sh /usr/local/bin/entrypoint.sh
-ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
