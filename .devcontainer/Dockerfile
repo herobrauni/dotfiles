@@ -3,7 +3,7 @@ FROM archlinux:latest
 
 # Install essential packages
 RUN pacman -Syu --noconfirm \
-    && pacman -S --noconfirm --needed python git zsh curl unzip wget base-devel
+    && pacman -S --noconfirm --needed python git zsh curl unzip wget base-devel rust
 
 # Set Zsh as the default shell
 SHELL ["/usr/bin/zsh", "-c"]
