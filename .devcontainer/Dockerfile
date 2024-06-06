@@ -3,9 +3,8 @@ FROM archlinux:latest
 
 # Install essential packages
 RUN pacman -Syu --noconfirm \
-    && pacman -S --noconfirm python git zsh curl unzip wget
+    && pacman -S --noconfirm --needed python git zsh curl unzip wget base-devel
 
-RUN pacman -S --needed base-devel
 RUN git clone https://aur.archlinux.org/paru.git
 RUN cd paru
 RUN makepkg -si
