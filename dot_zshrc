@@ -6,7 +6,7 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
 fi
 
 fpath=(~/.config/zsh-completions $fpath)
-source /usr/share/zsh-antigen/antigen.zsh
+source ~/.config/antigen.zsh
 export PATH=/home/brauni/bin:$PATH
 
 # Load the oh-my-zsh's library.
