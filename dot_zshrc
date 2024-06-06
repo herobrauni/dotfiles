@@ -17,11 +17,6 @@ antigen bundle ansible
 antigen bundle git
 antigen bundle pip
 antigen bundle kubectl
-antigen bundle command-not-found
-antigen bundle colorize
-antigen bundle safe-paste
-antigen bundle thefuck
-antigen bundle dirhistory
 
 # Syntax highlighting bundle.
 antigen bundle zsh-users/zsh-syntax-highlighting
