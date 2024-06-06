@@ -10,6 +10,9 @@ SHELL ["/usr/bin/zsh", "-c"]
 
 RUN useradd -ms /usr/bin/zsh brauni && echo "brauni ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
 
+# Set the default shell for the user
+RUN chsh -s /usr/bin/zsh brauni
+
 USER brauni
 WORKDIR /home/brauni
 
@@ -21,7 +24,3 @@ RUN yay -S --noconfirm flux-bin helm opentofu kubectl chezmoi
 
 # Apply dotfiles using Chezmoi
 RUN chezmoi init --apply https://github.com/herobrauni/dotfiles.git
-
-# Set the default shell for the user
-RUN chsh -s $(which zsh) brauni
-
