@@ -20,7 +20,7 @@ RUN git clone https://aur.archlinux.org/yay-bin.git
 WORKDIR /home/devuser/yay-bin
 RUN makepkg -si --noconfirm
 
-RUN yay -S --noconfirm flux-bin helm terraform kubectl chezmoi
+RUN yay -S --noconfirm flux-bin helm terraform kubectl chezmoi thefuck nano micro
 
 # Apply dotfiles using Chezmoi
 RUN chezmoi init --apply https://github.com/herobrauni/dotfiles.git
