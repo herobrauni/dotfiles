@@ -10,7 +10,7 @@ SHELL ["/usr/bin/zsh", "-c"]
 
 RUN useradd -ms /usr/bin/zsh brauni && echo "brauni ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
 
-USER $USERNAME
+USER brauni
 WORKDIR /home/brauni
 
 RUN git clone https://aur.archlinux.org/paru.git
