@@ -10,8 +10,5 @@
         "ms-python.python",
         "ms-vscode.git"
     ],
-    "remoteUser": "devuser",
-    "mounts": [
-        "source=/path/to/your/local/folder,target=/home/devuser/your_folder,type=bind,consistency=cached"
-    ]
+    "remoteUser": "devuser"
 }
