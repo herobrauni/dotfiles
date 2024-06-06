@@ -8,13 +8,10 @@ RUN pacman -Syu --noconfirm \
 # Set Zsh as the default shell
 SHELL ["/usr/bin/zsh", "-c"]
 
-# Create a non-root user (optional but recommended)
-ARG USERNAME=devuser
-
-RUN useradd -ms /bin/bash $USERNAME && echo "$USERNAME ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
+RUN useradd -ms /usr/bin/zsh brauni && echo "brauni ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
 
 USER $USERNAME
-WORKDIR /home/$USERNAME
+WORKDIR /home/brauni
 
 RUN git clone https://aur.archlinux.org/paru.git
 RUN cd paru
@@ -26,5 +23,5 @@ RUN paru -S --noconfirm flux-bin helm opentofu kubectl chezmoi
 RUN chezmoi init --apply https://github.com/herobrauni/dotfiles.git
 
 # Set the default shell for the user
-RUN chsh -s $(which zsh) $USERNAME
+RUN chsh -s $(which zsh) brauni
 
