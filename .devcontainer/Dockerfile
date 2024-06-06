@@ -8,19 +8,19 @@ RUN pacman -Syu --noconfirm \
 # Set Zsh as the default shell
 SHELL ["/usr/bin/zsh", "-c"]
 
-RUN useradd -ms /usr/bin/zsh brauni && echo "brauni ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
+RUN useradd -ms /usr/bin/zsh devuser && echo "devuser ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
 
 # Set the default shell for the user
-RUN chsh -s /usr/bin/zsh brauni
+RUN chsh -s /usr/bin/zsh devuser
 
-USER brauni
-WORKDIR /home/brauni
+USER devuser
+WORKDIR /home/devuser
 
 RUN git clone https://aur.archlinux.org/yay-bin.git
-WORKDIR /home/brauni/yay-bin
+WORKDIR /home/devuser/yay-bin
 RUN makepkg -si --noconfirm
 
 RUN yay -S --noconfirm flux-bin helm opentofu kubectl chezmoi
 
 # Apply dotfiles using Chezmoi
-RUN chezmoi init --apply https://github.com/herobrauni/dotfiles.git
+RUN chezmoi init --apply https://github.com/herodevuser/dotfiles.git
