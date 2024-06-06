@@ -5,6 +5,11 @@ FROM archlinux:latest
 RUN pacman -Syu --noconfirm \
     && pacman -S --noconfirm python git zsh curl unzip wget
 
+RUN pacman -S --needed base-devel
+RUN git clone https://aur.archlinux.org/paru.git
+RUN cd paru
+RUN makepkg -si
+
 # Install Helm
 RUN curl https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3 | bash
 
@@ -15,7 +20,7 @@ RUN curl -fsSL https://releases.hashicorp.com/terraform/1.5.2/terraform_1.5.2_li
     && rm terraform.zip
 
 # Install Flux
-RUN curl -s https://fluxcd.io/install.sh | bash
+RUN paru -S flux-bin --noconfirm
 
 # Install kubectl
 RUN curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl" \
