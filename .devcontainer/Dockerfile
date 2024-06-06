@@ -13,11 +13,11 @@ RUN useradd -ms /usr/bin/zsh brauni && echo "brauni ALL=(ALL) NOPASSWD:ALL" >> /
 USER brauni
 WORKDIR /home/brauni
 
-RUN git clone https://aur.archlinux.org/paru.git
-WORKDIR /home/brauni/paru
-RUN makepkg -si
+RUN git clone https://aur.archlinux.org/yay-bin.git
+WORKDIR /home/brauni/yay-bin
+RUN makepkg -si --noconfirm
 
-RUN paru -S --noconfirm flux-bin helm opentofu kubectl chezmoi
+RUN yay -S --noconfirm flux-bin helm opentofu kubectl chezmoi
 
 # Apply dotfiles using Chezmoi
 RUN chezmoi init --apply https://github.com/herobrauni/dotfiles.git
