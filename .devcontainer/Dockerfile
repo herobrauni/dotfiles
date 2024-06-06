@@ -23,4 +23,4 @@ RUN makepkg -si --noconfirm
 RUN yay -S --noconfirm flux-bin helm terraform kubectl chezmoi
 
 # Apply dotfiles using Chezmoi
-RUN chezmoi init --apply https://github.com/herodevuser/dotfiles.git
+RUN chezmoi init --apply https://github.com/herobrauni/dotfiles.git
