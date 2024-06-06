@@ -3,7 +3,7 @@ FROM archlinux:latest
 
 # Install essential packages
 RUN pacman -Syu --noconfirm \
-    && pacman -S --noconfirm python git zsh curl unzip
+    && pacman -S --noconfirm python git zsh curl unzip wget
 
 # Install Helm
 RUN curl https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3 | bash
