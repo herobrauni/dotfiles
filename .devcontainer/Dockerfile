@@ -5,13 +5,6 @@ FROM archlinux:latest
 RUN pacman -Syu --noconfirm \
     && pacman -S --noconfirm --needed python git zsh curl unzip wget base-devel
 
-RUN git clone https://aur.archlinux.org/paru.git
-RUN cd paru
-RUN makepkg -si
-
-# Install Helm
-RUN paru -S --noconfirm flux-bin helm opentofu kubectl chezmoi
-
 # Set Zsh as the default shell
 SHELL ["/usr/bin/zsh", "-c"]
 
@@ -26,6 +19,12 @@ RUN groupadd --gid $USER_GID $USERNAME \
 
 USER $USERNAME
 WORKDIR /home/$USERNAME
+
+RUN git clone https://aur.archlinux.org/paru.git
+RUN cd paru
+RUN makepkg -si
+
+RUN paru -S --noconfirm flux-bin helm opentofu kubectl chezmoi
 
 # Apply dotfiles using Chezmoi
 RUN chezmoi init --apply https://github.com/herobrauni/dotfiles.git
