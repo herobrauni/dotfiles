@@ -14,7 +14,7 @@ USER brauni
 WORKDIR /home/brauni
 
 RUN git clone https://aur.archlinux.org/paru.git
-RUN cd paru
+WORKDIR /home/brauni/paru
 RUN makepkg -si
 
 RUN paru -S --noconfirm flux-bin helm opentofu kubectl chezmoi
