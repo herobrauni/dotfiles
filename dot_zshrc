@@ -17,6 +17,7 @@ antigen bundle ansible
 antigen bundle git
 antigen bundle pip
 antigen bundle kubectl
+antigen bundle terraform
 
 # Syntax highlighting bundle.
 antigen bundle zsh-users/zsh-syntax-highlighting
