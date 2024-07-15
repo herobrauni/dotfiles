@@ -282,7 +282,7 @@ binds {
 
     // Suggested binds for running programs: terminal, app launcher, screen locker.
     Mod+T { spawn "foot"; }
-    Mod+D { spawn "rofi -show combi -modi window,run,combi -combi-modi window,run"; }
+    Mod+D { spawn "rofi -show drun"; }
     Super+Alt+L { spawn "waylock"; }
     Mod+W { spawn "firefox"; }
 
