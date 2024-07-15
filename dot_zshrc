@@ -41,3 +41,5 @@ export EDITOR="micro"
 alias update="sudo apt update && sudo apt upgrade -y"
 # alias gpush="git add -A && git commit -m $1 && git push".
 function gpush(){ git add -A && git commit -m $1 && git push }
+alias dg="/home/brauni/scripts/remmina-datagroup.sh"
+alias ferdium="/home/brauni/scripts/ferdium.sh"
