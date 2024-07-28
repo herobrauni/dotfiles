@@ -44,4 +44,4 @@ function gpush(){ git add -A && git commit -m $1 && git push }
 #alias dg="/home/brauni/scripts/remmina-datagroup.sh"
 #alias ferd="/home/brauni/scripts/ferdium.sh"
 alias headphones="pactl set-card-profile alsa_card.pci-0000_04_00.6 off"
-alias speaker="pactl set-card-profile alsa_card.pci-0000_04_00.6 alsa_card.pci-0000_04_00.6 HiFi\ \(Mic1,\ Mic2,\ Speaker\)"
+alias speakers="pactl set-card-profile alsa_card.pci-0000_04_00.6 HiFi\ \(Mic1,\ Mic2,\ Speaker\)"
