@@ -1,13 +1,3 @@
-{{ if eq .chezmoi.os "arch" -}}
+{{ if eq .chezmoi.os "linux" -}}
 #!/bin/bash
 echo "PEWPEW"
-# 
-# brew bundle --no-lock --file=/dev/stdin <<EOF
-# {{ range .packages.darwin.brews -}}
-# brew {{ . | quote }}
-# {{ end -}}
-# {{ range .packages.darwin.casks -}}
-# cask {{ . | quote }}
-# {{ end -}}
-# EOF
-# {{ end -}}
