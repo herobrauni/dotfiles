@@ -1,0 +1,4 @@
+packages:
+  arch:
+    aur:
+    - 'zsh'
