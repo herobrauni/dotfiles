@@ -8,7 +8,7 @@ fi
 fpath=(~/.config/zsh-completions $fpath)
 source ~/.config/antigen.zsh
 export PATH=/home/brauni/bin:/home/brauni/scripts:$PATH
-
+export LIBVIRT_DEFAULT_URI=\"qemu:///system\"
 
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
