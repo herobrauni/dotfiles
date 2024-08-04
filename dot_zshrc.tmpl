@@ -55,5 +55,5 @@ function gpush(){
 alias headphones="pactl set-card-profile alsa_card.pci-0000_04_00.6 HiFi\ \(Headphones,\ Mic1,\ Mic2\)"
 alias speakers="pactl set-card-profile alsa_card.pci-0000_04_00.6 HiFi\ \(Mic1,\ Mic2,\ Speaker\)"
 alias sound="pactl set-card-profile alsa_card.pci-0000_04_00.6 HiFi\ \(Headphones,\ Mic1,\ Mic2\);pactl set-card-profile alsa_card.pci-0000_04_00.6 HiFi\ \(Mic1,\ Mic2,\ Speaker\)"
-function windows(){ docker compose -f /home/brauni/.local/share/chezmoi/.config/winapps/compose.yaml $@ }
+function windows(){ docker compose -f {{ joinPath .chezmoi.homeDir ".config/winapps/compose.yaml" }} $@ }
 {{ end }}
