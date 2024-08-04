@@ -7,8 +7,6 @@ fi
 
 fpath=(~/.config/zsh-completions $fpath)
 source ~/.config/antigen.zsh
-export PATH=/home/brauni/.local/share/chezmoi/bin:/home/brauni/.local/share/chezmoi/scripts:$PATH
-export LIBVIRT_DEFAULT_URI=qemu:///system
 
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
@@ -39,11 +37,10 @@ antigen apply
 export EDITOR="nano"
 
 alias update="sudo apt update && sudo apt upgrade -y"
-# alias gpush="git edit -A && git commit -m $1 && git push".
-function gpush(){ git edit -A && git commit -m $1 && git push }
-#alias dg="/home/brauni/.local/share/chezmoi/scripts/remmina-datagroup.sh"
-#alias ferd="/home/brauni/.local/share/chezmoi/scripts/ferdium.sh"
+function gpush(){ git edit -A && git commit -m $@ && git push }
+{{ if eq .chezmoi.hostname "envy" }}
 alias headphones="pactl set-card-profile alsa_card.pci-0000_04_00.6 HiFi\ \(Headphones,\ Mic1,\ Mic2\)"
 alias speakers="pactl set-card-profile alsa_card.pci-0000_04_00.6 HiFi\ \(Mic1,\ Mic2,\ Speaker\)"
 alias sound="pactl set-card-profile alsa_card.pci-0000_04_00.6 HiFi\ \(Headphones,\ Mic1,\ Mic2\);pactl set-card-profile alsa_card.pci-0000_04_00.6 HiFi\ \(Mic1,\ Mic2,\ Speaker\)"
+{{ end }}
 function windows(){ docker compose -f /home/brauni/.local/share/chezmoi/.config/winapps/compose.yaml $@ }
