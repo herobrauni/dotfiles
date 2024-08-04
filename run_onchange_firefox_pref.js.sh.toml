@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# prefs.js hash: {{ include "./private_dot_mozilla/private_firefox/brauni/private_prefs.js" | sha256sum }}
+sed -i 's/user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", false);/user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);/g' ./private_dot_mozilla/private_firefox/brauni/private_prefs.js

@@ -1,0 +1,3 @@
+#!/bin/sh
+sudo systemctl start tailscaled
+sudo tailscale up --authkey={{- (rbw "tailscale" "key").notes }}
