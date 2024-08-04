@@ -36,8 +36,11 @@ antigen apply
 
 export EDITOR="nano"
 
+{{ if (or (eq .chezmoi.osRelease.id "Debian" "Ubuntu") (eq .chezmoi.osRelease.idLike "Debian" "Ubuntu")) }}
 alias update="sudo apt update && sudo apt upgrade -y"
-function gpush() {
+{{ end }}
+
+function gpush(){
     git add .
     if [ -n "$1" ]
     then
@@ -47,6 +50,7 @@ function gpush() {
     fi
     git push
 }
+
 {{ if eq .chezmoi.hostname "envy" }}
 alias headphones="pactl set-card-profile alsa_card.pci-0000_04_00.6 HiFi\ \(Headphones,\ Mic1,\ Mic2\)"
 alias speakers="pactl set-card-profile alsa_card.pci-0000_04_00.6 HiFi\ \(Mic1,\ Mic2,\ Speaker\)"
