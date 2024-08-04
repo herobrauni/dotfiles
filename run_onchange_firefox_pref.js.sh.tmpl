@@ -1,8 +1,11 @@
 #!/bin/bash
-
+# test
 # prefs.js hash: {{include (joinPath .chezmoi.homeDir ".mozilla/firefox/brauni/prefs.js") | sha256sum }}
-#PREFS={{- joinPath .chezmoi.homeDir ".mozilla/firefox/brauni/prefs.js" }}
-#echo $PREFS
+PREFS={{- joinPath .chezmoi.homeDir "test2" }}
+echo $PREFS
 
-echo '/user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);' >> {{ joinPath .chezmoi.homeDir ".mozilla/firefox/brauni/prefs.js" }}
+echo "WTF"
+echo '/user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);' >> /home/brauni/test
+echo '/user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);' >> $PREFS
+
 #sed -i 's/user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", false);/user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);/g' {{ joinPath .chezmoi.homeDir ".mozilla/firefox/brauni/prefs.js" }}
