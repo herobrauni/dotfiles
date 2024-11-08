@@ -1,0 +1,4 @@
+[".config/argc-completions"]
+    type = "git-repo"
+    url = "https://github.com/sigoden/argc-completions.git"
+    refreshPeriod = "24h"
