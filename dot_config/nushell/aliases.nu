@@ -1,3 +1,14 @@
+if $env.PWD == /var/home/brauni {
+	cd /home/brauni
+}
+
+def la [folder?] { 
+	match $folder {
+		null => { ls -la | sort-by type name }
+		_ => { ls -la $folder | sort-by type name }
+	}
+}
+
 def bbic [] = { 
     brew update; 
     brew bundle install --cleanup --file=~/.config/Brewfile --no-lock; 
@@ -12,4 +23,5 @@ def gpush [message?: string] = {
     }
     git push
 }
+
 alias ccd = cd (chezmoi source-path)
