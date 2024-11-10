@@ -1,0 +1,5 @@
+brew "chezmoi"
+brew "fish"
+brew "gcc"
+brew "nushell"
+brew "starship"
