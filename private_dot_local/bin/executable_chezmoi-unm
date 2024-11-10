@@ -3,11 +3,12 @@
 # Based on the script from:
 # https://github.com/twpayne/chezmoi/discussions/2631#discussioncomment-4457933
 cfzf () {
-  file_path=$(chezmoi managed --include=files --exclude=externals --path-style absolute | fzf --reverse --preview="cat {} | head -n 200" --query=$1)
+  file_path=$(chezmoi unmanaged --path-style absolute | fzf --reverse --preview="cat {} | head -n 200" --query=$1)
 
   if [ -z "$file_path" ]; then
     >&2 echo "No file selected"
   else
+	chezmoi add "$file_path"
     chezmoi edit --apply "$file_path"
   fi
 }
