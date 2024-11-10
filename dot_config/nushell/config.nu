@@ -901,3 +901,4 @@ $env.config = {
 ### CUSTOM
 source ./starship.nu
 source ./completer.nu
+source ./aliases.nu
