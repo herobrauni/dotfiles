@@ -12,3 +12,4 @@ def gpush [message?: string] = {
     }
     git push
 }
+alias ccd = cd (chezmoi source-path)

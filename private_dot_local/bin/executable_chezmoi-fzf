@@ -8,7 +8,7 @@ cfzf () {
   if [ -z "$file_path" ]; then
     >&2 echo "No file selected"
   else
-    chezmoi edit --apply "$HOME/$file_path"
+    chezmoi edit --apply "$file_path"
   fi
 }
 
