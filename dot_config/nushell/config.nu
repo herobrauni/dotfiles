@@ -902,4 +902,4 @@ $env.config = {
 source ./starship.nu
 source ./completer.nu
 source ./aliases.nu
-source ./zellij.nu
+# source ./zellij.nu
