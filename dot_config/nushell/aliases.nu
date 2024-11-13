@@ -25,3 +25,6 @@ def gpush [message?: string] = {
 }
 
 alias ccd = cd (chezmoi source-path)
+
+alias bitpw = rbw get (rbw list | fzf) --full
+alias bitcode = rbw code (rbw list | fzf) --full
