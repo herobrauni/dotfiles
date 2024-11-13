@@ -93,7 +93,7 @@ palette = "catppuccin_macchiato"
 
 [character]
 success_symbol = "[[󰄛](green) ❯](peach)"
-error_symbol = "[[󰄛](red) ✗](red)"
+error_symbol = "[[󰄛](red) ✗](peach)"
 
 [os]
 format='✨'
@@ -113,9 +113,6 @@ style="bold green"
 truncate_to_repo=false
 repo_root_style='underline bold teal'
 style = "bold lavender"
-format='in [$path]($style)[$read_only]($read_only_style) '
-repo_root_format='in [$before_root_path]($before_repo_root_style)[$repo_root]($repo_root_style)[$path]($style)[$read_only]($read_only_style) '
-home_symbol = ' ~'
 
 [time]
 disabled=false
@@ -132,6 +129,7 @@ diverged = '⇕⇡${ahead_count}⇣${behind_count}'
 behind = '⇣${count}'
 modified= '!${count}'
 format='([\[$all_status$ahead_behind\]]($style) )'
+
 
 [shell]
 disabled=false
