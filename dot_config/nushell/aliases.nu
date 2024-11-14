@@ -45,3 +45,20 @@ def uu [] = {
 }
 
 alias ff = systemctl --user start app-org.mozilla.firefox@autostart.service
+
+
+$env.config = (
+    $env.config | upsert keybindings (
+        $env.config.keybindings
+        | append {
+            name: atuin
+            modifier: none
+            keycode: up
+            mode: [emacs, vi_normal, vi_insert]
+            event: {
+            	send: executehostcommand
+            	cmd: "commandline edit (atuin search --format \"{host}::{time}::{command}\" | parse '{host}::{time}::{command}' | get command | reverse | uniq | to text | fzf --scheme history --height=60% -q (commandline) | decode utf-8 | str trim)"
+            }
+        }
+    )
+)
