@@ -4,8 +4,6 @@ if $env.PWD == /var/home/brauni {
 
 alias cm = chezmoi
 
-alias cat = bat
-
 def la [folder?] { 
 	match $folder {
 		null => { ls -la | sort-by type name }
