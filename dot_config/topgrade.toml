@@ -3,11 +3,9 @@ paths = ["/etc/ublue-os/topgrade.toml"]
 
 [misc]
 no_self_update = true
-only = ["system", "flatpak", "distrobox", "firmware", "brew_cask", "brew_formula"]
-disable = ["self_update", "toolbx", "containers", "shell", "waydroid",
-"git_repos"]
-ignore_failures = ["distrobox", "flatpak", "brew_cask", "brew_formula",
- "nix", "pip3", "helm", "home_manager", "firmware"]
+# only = ["system", "flatpak", "distrobox", "firmware", "brew_cask", "brew_formula"]
+disable = ["self_update", "toolbx", "containers", "shell", "waydroid", "git_repos", "node"]
+ignore_failures = ["distrobox", "flatpak", "brew_cask", "brew_formula", "nix", "pip3", "helm", "home_manager", "firmware"]
 assume_yes = true
 no_retry = false
 
