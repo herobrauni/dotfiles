@@ -1,7 +1,14 @@
-encryption = "gpg"
+encryption = "age"
 [edit]
     command = "micro"
     apply = true
+[age]
+	identity = "~/.config/agekey.txt"
+	recipient = """
+age1lmcqwpctm25qvhdyk6gh2gyclac2cg5wls5yjagvspxayh0hmcgqqnzsrg
+age1zrr7y448fvxf9lczfv9hsxm8fyrwr6clx38mszde677q24drlecqf3glut"""
+
+	
 [gpg]
     recipient = "braunnicolaj@gmail.com"
     args = ["--quiet"]
