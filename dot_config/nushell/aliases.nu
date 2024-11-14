@@ -2,6 +2,8 @@ if $env.PWD == /var/home/brauni {
 	cd /home/brauni
 }
 
+alias cm = chezmoi
+
 def la [folder?] { 
 	match $folder {
 		null => { ls -la | sort-by type name }
@@ -27,4 +29,8 @@ def gpush [message?: string] = {
 alias ccd = cd (chezmoi source-path)
 
 alias bitpw = rbw get (rbw list | fzf) --full
-alias bitcode = rbw code (rbw list | fzf) --full
+def bitcode [] = {
+	let pin = (rbw code (rbw list | fzf))
+	print $pin
+	$pin | wl-copy
+}
