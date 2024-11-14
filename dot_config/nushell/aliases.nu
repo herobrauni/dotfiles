@@ -43,3 +43,5 @@ def uu [] = {
 	ublue-update --wait
 	/usr/bin/topgrade --config ~/.config/topgrade.toml --keep
 }
+
+alias ff = systemctl --user start app-org.mozilla.firefox@autostart.service
