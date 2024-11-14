@@ -4,6 +4,8 @@ if $env.PWD == /var/home/brauni {
 
 alias cm = chezmoi
 
+alias cat = bat
+
 def la [folder?] { 
 	match $folder {
 		null => { ls -la | sort-by type name }
@@ -34,3 +36,5 @@ def bitcode [] = {
 	print $pin
 	$pin | wl-copy
 }
+alias neofetch = fastfetch
+alias fastfetch = /usr/bin/fastfetch --file /usr/share/ublue-os/aurora-logo.txt --logo-type file --logo-color-1 94 --logo-color-2 95 --logo-color-3 91  --logo-color-4 97 -c /usr/share/ublue-os/ublue-os.jsonc
