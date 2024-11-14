@@ -55,7 +55,16 @@ $env.config = (
             mode: [emacs, vi_normal, vi_insert]
             event: {
             	send: executehostcommand
-            	cmd: "commandline edit (atuin search --format \"{host}::{time}::{command}\" | parse '{host}::{time}::{command}' | get command | reverse | uniq | to text | fzf --scheme history --height=60% -q (commandline) | decode utf-8 | str trim)"
+            	cmd: "commandline edit (atuin search --format \"{host}::{time}::{command}\" 
+            	| parse '{host}::{time}::{command}' 
+            	| get command 
+            	| reverse 
+            	| uniq
+            	| str join (char -i 0) 
+            	| fzf --scheme history --read0 --tiebreak=chunk --height=60% --preview='echo {..}' -q (commandline) --preview='echo -n {} | nu --stdin -c \'nu-highlight\''
+            	| decode utf-8
+            	| str trim
+            	)"
             }
         }
     )
