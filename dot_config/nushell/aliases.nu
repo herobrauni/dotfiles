@@ -1,3 +1,4 @@
+alias code = distrobox enter ubuntu -- code
 if $env.PWD == /var/home/brauni {
 	cd /home/brauni
 }
