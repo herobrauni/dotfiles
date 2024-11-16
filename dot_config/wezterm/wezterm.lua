@@ -7,7 +7,7 @@ local config = wezterm.config_builder()
 -- This is where you actually apply your config choices
 
 -- close without asking
-config.window_close_confirmation = 'AlwaysPrompt'
+config.window_close_confirmation = 'NeverPrompt'
 
 -- For example, changing the color scheme:
 config.color_scheme = 'Catppuccin Macchiato'
