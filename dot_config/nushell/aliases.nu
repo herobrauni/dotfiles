@@ -70,3 +70,12 @@ $env.config = (
         }
     )
 )
+# compare_images.nu
+def compare_images [a: string,b: string] {
+	let a_packages = (skopeo inspect $a | from json | get Labels | get "dev.hhd.rechunk.info" | from json | get packages | sort | transpose pkg version )
+	#print $a_packages
+	let b_packages = (skopeo inspect $b | from json | get Labels | get "dev.hhd.rechunk.info" | from json | get packages | sort | transpose pkg version )
+	#print $b_packages
+	let $d = ( $a_packages | filter { |f| not ($f.pkg in $b_packages.pkg ) } )
+	print $d
+}
