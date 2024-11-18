@@ -1,6 +1,9 @@
 #!/bin/bash
 
 # Flatpak hash: {{ include "dot_config/flatpaks" | sha256sum }}
+{{   if (.chezmoi.kernel.osrelease | lower | contains "microsoft") }}
+echo "WSL System, cant install Flatpaks"
+{{   else }}
 flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 while IFS= read -r flatpak; do
@@ -10,3 +13,4 @@ while IFS= read -r flatpak; do
 	echo "Installing $flatpak ..."
 	flatpak install -y --user "$flatpak"
 done < {{ .chezmoi.homeDir }}/.config/flatpaks
+{{   end }}
