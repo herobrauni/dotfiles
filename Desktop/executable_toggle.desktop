@@ -1,0 +1,6 @@
+#!/usr/bin/env xdg-open
+ [Desktop Entry] 
+ Exec=~/.config/keyboard_switch.sh toggle
+ Icon=preferences-desktop-keyboard 
+ StartupNotify=true 
+ Type=Application 
