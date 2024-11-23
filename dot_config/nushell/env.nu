@@ -105,5 +105,5 @@ $env.PATH = ($env.PATH | split row (char esep) | prepend '/home/linuxbrew/.linux
 $env.ZELLIJ_AUTO_EXIT = true
 $env.ZELLIJ_AUTO_ATTACH = true
 zoxide init nushell | save ~/.config/nushell/zoxide.nu --force
-# oh-my-posh init nu --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/catppuccin_macchiato.omp.json' --print | save ~/.config/nushell/oh-my-posh.nu --force
+starship init nu | save ~/.config/nushell/starship.nu --force
 atuin init nu | save ~/.config/nushell/atuin.nu --force
