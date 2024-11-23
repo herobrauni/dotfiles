@@ -1,3 +1,5 @@
 #!/bin/sh
-sudo systemctl enable tailscaled --now
-sudo tailscale up --authkey={{- (rbw "tailscale" "key").notes }} --operator={{ .chezmoi.username }}
+{{ if eq .chezmoi.data.container "archbox" }}
+distrobox-host-exec sudo systemctl enable tailscaled --now
+distrobox-host-exec sudo tailscale up --authkey={{- (rbw "tailscale" "key").notes }} --operator={{ .chezmoi.username }}
+{{ end }}

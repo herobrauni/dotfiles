@@ -6,8 +6,10 @@ encryption = "age"
 	identity = "~/.config/agekey.txt"
 	recipients = [ "{{ (rbw "deskbrauni" "age").notes }}" , "{{ (rbw "envy" "age").notes }}" ]
 
-	
 [gpg]
     recipient = "braunnicolaj@gmail.com"
     args = ["--quiet"]
     suffix = ".gpg"
+
+[data]
+	container = "{{ env "CONTAINER_ID" }}"
