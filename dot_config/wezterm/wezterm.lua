@@ -18,7 +18,7 @@ config.hide_tab_bar_if_only_one_tab = true
 -- set home dir
 config.default_cwd = "/home/brauni"
 -- Spawn nushell
-config.default_prog = { '/var/home/linuxbrew/.linuxbrew/bin/nu'}
-
+-- config.default_prog = { '/var/home/linuxbrew/.linuxbrew/bin/nu'}
+config.default_prog = { 'distrobox', 'enter', 'archbox' }
 -- and finally, return the configuration to wezterm
 return config
