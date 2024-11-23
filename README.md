@@ -1,31 +1,18 @@
-We need brew and flatpaks
-flatpak should be installed by default.
-install brew:
+change hostname
 
-`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+`hostnamectl hostname WHATEVER`
 
-install rbw and chezmoi:
+create and enter distrobox with all tools
 
-`brew install rbw chezmoi`
+`distrobox create -i ghcr.io/herobrauni/boxkit -n archbox`
+`distrobox enter archbox`
 
-init chezmoi
+run stuff in this box
 
-`chezmoi init herobrauni`
-
-apply rbw config
-
-`chezmoi apply .config/rbw`
-
-apply the rest
-
-`chezmoi apply`
-
-switch chezmoi repo to use ssh
-
-`cd (chezmoi source-path)`
-
-`git remote set-url origin git@github.com:herobrauni/dotfiles`
-
-Set Terminal to Wezterm
-
-
+```
+chezmoi init herobrauni
+chezmoi apply ~/.config/rbw
+chezmoi apply
+cd ~/.local/share/chezmoi
+git remote set-url origin git@github.com:herobrauni/dotfiles
+```
