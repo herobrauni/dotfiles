@@ -1,0 +1,11 @@
+[Unit]
+Description=Backrest
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/var/home/brauni/.local/bin/backrest
+Environment="BACKREST_PORT=127.0.0.1:9898"
+
+[Install]
+WantedBy=default.target
