@@ -15,6 +15,12 @@ config.color_scheme = 'Catppuccin Macchiato'
 -- disable tab bar if only one tab
 config.hide_tab_bar_if_only_one_tab = true
 
+-- split pane
+config.keys = {
+    { key = '\\', mods = 'CMD', action = wezterm.action.SplitHorizontal{ domain =  'CurrentPaneDomain' } },
+    { key = '-', mods = 'CMD', action = wezterm.action.SplitVertical{ domain =  'CurrentPaneDomain' } },
+}
+
 -- set home dir
 config.default_cwd = "/home/brauni"
 -- Spawn nushell
