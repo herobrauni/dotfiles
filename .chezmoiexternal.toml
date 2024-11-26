@@ -1,0 +1,6 @@
+{{ $backrestVersion := "v1.6.2" -}}
+[".local/bin/backrest"]
+	# VERSION="$(curl --silent "https://api.github.com/repos/garethgeorge/backrest/releases/latest" | grep -Po "(?<=\"tag_name\": \").*(?=\")")"
+    type = "archive-file"
+    url = "https://github.com/garethgeorge/backrest/releases/download/{{ $backrestVersion }}/backrest_Linux_x86_64.tar.gz"
+    path = "backrest"
