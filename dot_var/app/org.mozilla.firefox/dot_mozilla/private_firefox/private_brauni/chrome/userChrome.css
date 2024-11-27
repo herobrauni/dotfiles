@@ -1,1 +1,4 @@
-@import url(chrome/hide_tabs_toolbar.css)
+@import url(chrome/hide_tabs_toolbar_v2.css);
+#sidebar-header{
+	display: none;
+}
