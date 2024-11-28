@@ -5,7 +5,7 @@ change hostname
 create and enter distrobox with all tools
 
 ```
-distrobox create -i ghcr.io/herobrauni/boxkit -n archbox
+distrobox create -i ghcr.io/herobrauni/box -n archbox
 distrobox enter archbox
 ```
 
