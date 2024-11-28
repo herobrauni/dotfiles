@@ -13,3 +13,8 @@ encryption = "age"
 
 [data]
 	container = "{{ env "CONTAINER_ID" }}"
+	{{ if eq .chezmoi.hostname "deskbrauni" }}
+	hc_url = "https://hc-ping.com/1c94ae1a-087a-4d93-bad3-c2ba9c7eb548"
+	{{ else if eq .chezmoi.hostname "envy" }}
+	hc_url	= "https://hc-ping.com/2f71e46a-a700-49c9-83ee-028d1172767c"
+	{{ end }}

@@ -5,6 +5,11 @@ if $env.PWD == /var/home/brauni {
 
 alias cm = chezmoi
 
+def --env bwl [] = {
+	$env.BW_SESSION = ^bw unlock --raw
+	$env.BW_SESSION
+}
+
 def la [folder?] { 
 	match $folder {
 		null => { ls -la | sort-by type name }
