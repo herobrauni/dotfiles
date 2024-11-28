@@ -1,2 +1,2 @@
 #!/bin/sh
-atuin login --username {{ (rbw "atuin" "brauni").data.username }} --password "{{ (rbw "atuin" "brauni").data.password }}" --key "{{ (rbw "atuin" "brauni").notes }}"
+atuin login --username {{ (bitwarden "item" "atuin_brauni").login.username }} --password "{{ (bitwarden "item" "atuin_brauni").login.password }}" --key "{{ (bitwarden "item" "atuin_brauni").notes }}"

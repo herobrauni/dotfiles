@@ -4,7 +4,7 @@ encryption = "age"
     apply = true
 [age]
 	identity = "~/.config/agekey.txt"
-	recipients = [ "{{ (rbw "deskbrauni" "age").notes }}" , "{{ (rbw "envy" "age").notes }}" ]
+	recipients = [ "{{ (bitwarden "item" "deskbrauni_age").notes }}" , "{{ (bitwarden "item" "envy_age").notes }}" ]
 
 [gpg]
     recipient = "braunnicolaj@gmail.com"
