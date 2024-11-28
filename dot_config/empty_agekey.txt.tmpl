@@ -1,2 +1,1 @@
-# public key: {{ (rbw .chezmoi.hostname "age").notes }}
-{{ (rbw .chezmoi.hostname "age").data.password }}
+{{ (bitwarden "item" (print .chezmoi.hostname  "_age")).login.password }}

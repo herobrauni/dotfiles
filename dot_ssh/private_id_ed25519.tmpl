@@ -1,1 +1,1 @@
-{{ (rbw .chezmoi.hostname "ssh" ).notes }}
+{{ (bitwarden "item" (print .chezmoi.hostname "_ssh")).notes }}

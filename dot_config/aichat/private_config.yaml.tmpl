@@ -3,4 +3,4 @@
 model: openai
 clients:
 - type: openai
-  api_key: {{ (rbw "aichat").notes }}
+  api_key: {{ (bitwarden "item" "aichat").notes }}
