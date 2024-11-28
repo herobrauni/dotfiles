@@ -1,0 +1,2 @@
+#!/bin/sh
+{{ join .chezmoi.sourceDir ".encrypted-ssh-keyscan.txt" | include | decrypt }}
