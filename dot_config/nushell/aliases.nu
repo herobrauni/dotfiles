@@ -7,7 +7,6 @@ alias cm = chezmoi
 
 def --env bwl [] = {
 	$env.BW_SESSION = ^bw unlock --raw
-	$env.BW_SESSION
 }
 
 def la [folder?] { 
