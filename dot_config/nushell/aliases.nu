@@ -4,6 +4,7 @@ if $env.PWD == /var/home/brauni {
 }
 
 alias cm = chezmoi
+alias y = yazi
 
 def --env bwl [] = {
 	$env.BW_SESSION = ^bw unlock --raw
