@@ -3,6 +3,8 @@ if $env.PWD == /var/home/brauni {
 	cd /home/brauni
 }
 
+alias k = kubectl
+
 alias cm = chezmoi
 alias y = yazi
 
