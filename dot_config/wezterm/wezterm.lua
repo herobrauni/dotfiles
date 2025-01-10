@@ -25,6 +25,7 @@ config.keys = {
 config.default_cwd = "/home/brauni"
 -- Spawn nushell
 -- config.default_prog = { '/var/home/linuxbrew/.linuxbrew/bin/nu'}
-config.default_prog = { 'distrobox', 'enter', 'archbox' , '-e' , 'nu'}
+-- config.default_prog = { 'distrobox', 'enter', 'archbox' , '-e' , 'nu'}
+config.default_prog = { 'distrobox', 'enter', 'archbox' , '-e' , 'fish'}
 -- and finally, return the configuration to wezterm
 return config
