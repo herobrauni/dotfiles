@@ -1,5 +1,5 @@
 keybind = ctrl+shift+5=new_split:right
-command = /usr/bin/fish
+command = /usr/bin/nu
 confirm-close-surface=false
 theme=catppuccin-frappe
 #window-padding-color = extend
