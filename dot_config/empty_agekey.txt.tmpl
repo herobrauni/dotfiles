@@ -1,1 +1,1 @@
-{{ (bitwarden "item" (print .chezmoi.hostname  "_age")).login.password }}
+{{ (rbw .chezmoi.hostname "age").data.password }}
