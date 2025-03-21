@@ -115,6 +115,15 @@ output "Acer Technologies S273HL LQA0C0158001" {
     position x=3440 y=500
 }
 
+output  "Samsung Display Corp. 0x416C Unknown" {
+	mode "1920x1080@59.997"
+	position x=0 y=0	
+}
+
+output "Acer Technologies XG270HU T1T00000SL00" {
+	mode "2560x1440@144.006"
+	position x=1920 y=0
+}
 
 // Settings that influence how windows are positioned and sized.
 // Find more information on the wiki:
