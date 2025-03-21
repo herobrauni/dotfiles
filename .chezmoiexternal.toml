@@ -1,4 +1,4 @@
-{{ $backrestVersion := "v1.7.0" -}}
+{{ $backrestVersion := "v1.7.3" -}}
 [".local/bin/backrest"]
 	# VERSION="$(curl --silent "https://api.github.com/repos/garethgeorge/backrest/releases/latest" | grep -Po "(?<=\"tag_name\": \").*(?=\")")"
     type = "archive-file"
