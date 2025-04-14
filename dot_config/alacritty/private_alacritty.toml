@@ -1,2 +1,2 @@
 [terminal]
-shell = { program = "/usr/bin/fish" }
+shell = { program = "/var/home/linuxbrew/.linuxbrew/bin/fish" }
