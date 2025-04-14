@@ -5,3 +5,5 @@
   defaultBranch = "main"
 [push]
   recurseSubmodules = on-demand
+[core]
+	hooksPath = /home/brauni/.local/share/ggshield/git-hooks
