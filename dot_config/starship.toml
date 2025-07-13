@@ -84,7 +84,6 @@ $cmd_duration\
 $jobs\
 $fill $time $battery
 $status\
-$container\
 $shell\
 $character"""
 
