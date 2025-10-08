@@ -1,5 +1,6 @@
 packages:
   paru:
+    - zen-browser-bin
     - uv
     - ansible
     - atuin
