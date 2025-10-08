@@ -54,6 +54,7 @@ input {
         numlock
     }
     touchpad {
+	tap
     }
     mouse {
     }
@@ -153,6 +154,7 @@ environment {
   QT_QPA_PLATFORMTHEME "gtk3"
   QT_QPA_PLATFORMTHEME_QT6 "gtk3"
   TERMINAL "ghostty"
+  GTK_IM_MODULE "simple ghostty"
 }
 hotkey-overlay {
     skip-at-startup
