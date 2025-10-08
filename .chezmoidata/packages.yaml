@@ -64,3 +64,5 @@ packages:
     - greetd
     - xdg-desktop-portal-gtk
     - mate-polkit
+    - ghostty
+    - kitty
