@@ -1,7 +1,0 @@
-keybind = ctrl+shift+5=new_split:right
-command = /usr/bin/fish
-confirm-close-surface=false
-theme=catppuccin-frappe
-#window-padding-color = extend
-#window-theme = ghostty
-#gtk-titlebar = false
