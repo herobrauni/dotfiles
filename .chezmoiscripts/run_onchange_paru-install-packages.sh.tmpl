@@ -1,2 +1,2 @@
 #!/bin/bash
-paru --noconfirm --needed -S {{ range .packages.paru -}}{{ . }}{{ end -}}
+paru --noconfirm --needed -S {{ range .packages.paru -}}{{.}} {{ end -}}
