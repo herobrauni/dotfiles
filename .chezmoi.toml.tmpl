@@ -17,5 +17,3 @@ encryption = "age"
 	{{ else if eq .chezmoi.hostname "envy" }}
 	hc_url	= "https://hc-ping.com/2f71e46a-a700-49c9-83ee-028d1172767c"
 	{{ end }}
-[hooks.read-source-state.pre]
-    command = ".local/share/chezmoi/.install-password-manager.sh"
