@@ -1,5 +1,5 @@
 packages:
   paru:
-    - ansible
-    - docker
-    - git
+    - 'ansible'
+    - 'docker'
+    - 'git'
