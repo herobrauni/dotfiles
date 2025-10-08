@@ -1,5 +1,6 @@
 packages:
   paru:
+    - backrest
     - zen-browser-bin
     - uv
     - ansible
@@ -27,7 +28,6 @@ packages:
     - gping
     - github-cli
     - go-task
-    - ggshield
     - gtop
     - helix
     - helm
