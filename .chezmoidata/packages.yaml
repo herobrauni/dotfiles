@@ -1,6 +1,7 @@
 packages:
   paru:
     - backrest
+    - k9s
     - zen-browser-bin
     - uv
     - ansible
