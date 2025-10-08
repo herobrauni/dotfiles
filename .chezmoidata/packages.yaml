@@ -61,3 +61,5 @@ packages:
     - brightnessctl
     - gammastep
     - greetd
+    - xdg-desktop-portal-gtk
+    - mate-polkit
