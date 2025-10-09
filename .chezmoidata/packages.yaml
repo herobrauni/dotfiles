@@ -1,11 +1,18 @@
 packages:
   paru:
+    - git-crypt
+    - sbctl
+    - obsidian
+    - markdown-oxide
+    - nautilus
+    - thunderbird
+    - visual-studio-code-bin
     - backrest
     - k9s
     - zen-browser-bin
     - uv
     - ansible
-    - atuin
+    - atuin-git
     - docker
     - git
     - tailscale
@@ -68,3 +75,12 @@ packages:
     - mate-polkit
     - ghostty
     - kitty
+    - vesktop
+    - zapzap
+    - deezer
+    - telegram-desktop
+    - remmina
+    - teams-for-linux
+    - steam
+    - gamescope
+    - proton-cachyos

@@ -48,6 +48,7 @@ gestures {
 // Find the full list of options on the wiki:
 // https://github.com/YaLTeR/niri/wiki/Configuration:-Input
 input {
+    focus-follows-mouse max-scroll-amount="10%"
     keyboard {
         xkb {
         }
@@ -269,6 +270,11 @@ binds {
     }
     Mod+N hotkey-overlay-title="Notification Center" { spawn "dms" "ipc" "call" "notifications" "toggle"; }
     Mod+Shift+N hotkey-overlay-title="Notepad" { spawn "dms" "ipc" "call" "notepad" "toggle"; }
+    // === Web Browser ===
+    Mod+B hotkey-overlay-title="Open Web Browser" { spawn "zen-browser"; } 
+
+    // === File Browser ===
+    Mod+E hotkey-overlay-title="Open File Browser" { spawn "nautilus"; }
     
     // === Security ===
     Mod+Alt+L hotkey-overlay-title="Lock Screen" { 
