@@ -1,29 +1,22 @@
 packages:
   paru:
-    - git-crypt
-    - sbctl
-    - obsidian
-    - markdown-oxide
-    - nautilus
-    - thunderbird
-    - visual-studio-code-bin
-    - backrest
-    - k9s
-    - zen-browser-bin
-    - uv
-    - ansible
-    - atuin-git
-    - docker
-    - git
-    - tailscale
     - age
     - aichat
+    - ansible
+    - atuin-git
+    - backrest
     - bat
+    - brightnessctl
     - broot
     - btop
+    - cava
     - cheat-bin
     - chezmoi
     - choose
+    - cliphist
+    - deezer
+    - dgop-git
+    - docker
     - duf
     - dust
     - eza
@@ -31,57 +24,65 @@ packages:
     - fish
     - fluxcd
     - fzf
+    - gamescope
+    - gammastep
     - gcc
-    - gping
+    - ggshield
+    - ghostty
+    - git
+    - git-crypt
     - github-cli
     - go-task
+    - gping
+    - greetd
     - gtop
     - helix
     - helm
     - helmfile
-    - kubectl
+    - inter-font
+    - k9s
+    - kitty
     - kompose
+    - kubectl
     - lazygit
+    - markdown-oxide
+    - mate-polkit
+    - matugen-bin
     - micro
+    - nautilus
     - ncdu
+    - niri-git
+    - noctalia-shell
     - nushell
+    - obsidian
+    - proton-cachyos
+    - quickshell-git
     - rbw
+    - remmina
     - ripgrep
+    - sbctl
     - sops
     - starship
+    - steam
+    - tailscale
     - tealdeer
+    - teams-for-linux
+    - telegram-desktop
+    - thunderbird
+    - ttf-fira-code
+    - ttf-material-symbols-variable-git
+    - ttf-roboto
+    - uv
+    - vesktop
+    - visual-studio-code-bin
+    - wl-clipboard
+    - wlsunset
+    - xdg-desktop-portal-gnome
+    - xdg-desktop-portal-gtk
+    - xwayland-satellite
     - yazi
     - yq
-    - zellij
-    - zoxide
-    - niri-git
-    - quickshell-git
-    - ttf-material-symbols-variable-git
-    - inter-font
-    - ttf-fira-code
-    - ttf-roboto
-    - cava
-    - xwayland-satellite
-    - matugen-bin
-    - dgop-git
-    - wl-clipboard
-    - cliphist
-    - brightnessctl
-    - gammastep
-    - greetd
-    - xdg-desktop-portal-gtk
-    - mate-polkit
-    - ghostty
-    - kitty
-    - vesktop
     - zapzap
-    - deezer
-    - telegram-desktop
-    - remmina
-    - teams-for-linux
-    - steam
-    - gamescope
-    - proton-cachyos
-    - ggshield
-    - wlsunset
-    - noctalia-shell
+    - zellij
+    - zen-browser-bin
+    - zoxide

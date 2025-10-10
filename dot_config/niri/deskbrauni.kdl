@@ -44,7 +44,7 @@ output "Dell Inc. DELL S3422DWG HGG0T63" {
 
 output "PNP(AOC) Q27B3MA 17ZQ2HA000318" {
     mode "2560x1440@74.968"
-    position x=340 y=-1440
+    position x=380 y=-1440
 }
 
 output "Acer Technologies S273HL LQA0C0158001" {
