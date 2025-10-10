@@ -55,7 +55,7 @@ packages:
     - zellij
     - zoxide
     - niri-git
-    - dms-shell-bin
+    - dms-shell-niri-git
     - quickshell
     - ttf-material-symbols-variable-git
     - inter-font
