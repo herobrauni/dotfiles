@@ -1,2 +1,2 @@
 #!/bin/bash
-paru --assume-installed dms-shell-compositor-git --assume-installed dgop --needed -S {{ range .packages.paru -}}{{.}} {{ end -}}
+paru --needed -S {{ range .packages.paru -}}{{.}} {{ end -}}
