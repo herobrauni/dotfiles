@@ -56,11 +56,10 @@ packages:
     - zellij
     - zoxide
     - niri-git
-    - dms-shell-git
-    - quickshell-git
+    - dms-shell-bin
+    - quickshell
     - ttf-material-symbols-variable-git
     - inter-font
-    - nerd-fonts
     - ttf-fira-code
     - cava
     - xwayland-satellite
