@@ -1,5 +1,8 @@
 packages:
   paru:
+    - git
+    - git-crypt
+  stuff:
     - git-crypt
     - sbctl
     - obsidian
