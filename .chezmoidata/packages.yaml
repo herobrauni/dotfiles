@@ -1,8 +1,5 @@
 packages:
   paru:
-    - git
-    - git-crypt
-  stuff:
     - git-crypt
     - sbctl
     - obsidian
@@ -58,11 +55,11 @@ packages:
     - zellij
     - zoxide
     - niri-git
-    - dms-shell-niri-git
-    - quickshell
+    - quickshell-git
     - ttf-material-symbols-variable-git
     - inter-font
     - ttf-fira-code
+    - ttf-roboto
     - cava
     - xwayland-satellite
     - matugen-bin
@@ -86,3 +83,5 @@ packages:
     - gamescope
     - proton-cachyos
     - ggshield
+    - wlsunset
+    - noctalia-shell
