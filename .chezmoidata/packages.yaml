@@ -1,6 +1,5 @@
 packages:
   paru:
-    - dms-shell-niri-git
     - git-crypt
     - sbctl
     - obsidian
