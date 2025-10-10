@@ -63,7 +63,7 @@ packages:
     - cava
     - xwayland-satellite
     - matugen-bin
-    - dgop
+    - dgop-git
     - wl-clipboard
     - cliphist
     - brightnessctl
