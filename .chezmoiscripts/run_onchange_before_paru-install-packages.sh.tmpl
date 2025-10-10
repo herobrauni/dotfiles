@@ -1,2 +1,2 @@
 #!/bin/bash
-paru --noconfirm --needed -S {{ range .packages.paru -}}{{.}} {{ end -}}
+paru --noconfirm --assume-installed dms-shell-compositor-git --needed -S {{ range .packages.paru -}}{{.}} {{ end -}}
