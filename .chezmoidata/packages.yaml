@@ -1,5 +1,6 @@
 packages:
   paru:
+    - dms-shell-niri-git
     - git-crypt
     - sbctl
     - obsidian
@@ -18,7 +19,6 @@ packages:
     - tailscale
     - age
     - aichat
-    - atuin
     - bat
     - broot
     - btop
