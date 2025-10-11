@@ -2,9 +2,12 @@ workspace "chat" {
     open-on-output "PNP(AOC) Q27B3MA 17ZQ2HA000318"
 }
 
+spawn-at-startup "Telegram"
+spawn-at-startup "zapzap"
+
 window-rule {
     match app-id="org.telegram.desktop"
-    match app-id="com.rtosta.zapzap"
+    match app-id="ZapZap"
     open-on-workspace "chat"
 }
 
