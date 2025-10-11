@@ -64,7 +64,7 @@ packages:
     - starship
     - steam
     - tailscale
-    - talhelpere
+    - talhelper
     - talosctl
     - tealdeer
     - teams-for-linux
