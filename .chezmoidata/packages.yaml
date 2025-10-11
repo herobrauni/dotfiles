@@ -64,6 +64,8 @@ packages:
     - starship
     - steam
     - tailscale
+    - talhelpere
+    - talosctl
     - tealdeer
     - teams-for-linux
     - telegram-desktop
