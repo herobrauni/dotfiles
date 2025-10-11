@@ -15,7 +15,7 @@ packages:
     - choose
     - cliphist
     - deezer
-    - dgop-git
+    - dgop-bin
     - docker
     - duf
     - dust
@@ -52,7 +52,6 @@ packages:
     - nautilus
     - ncdu
     - niri-git
-    - noctalia-shell
     - nushell
     - obsidian
     - proton-cachyos
@@ -69,6 +68,7 @@ packages:
     - teams-for-linux
     - telegram-desktop
     - thunderbird
+    - tree
     - ttf-fira-code
     - ttf-material-symbols-variable-git
     - ttf-roboto
