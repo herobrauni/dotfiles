@@ -119,6 +119,9 @@ overview {
 spawn-at-startup "bash" "-c" "wl-paste --watch cliphist store &"
 spawn-at-startup "dms" "run"
 spawn-at-startup "/usr/lib/mate-polkit/polkit-mate-authentication-agent-1"
+// === PLUGINS ===
+spawn-at-startup "niri-screen-time" "-daemon"
+spawn-at-startup "niri-switch-daemon"
 
 environment {
   XDG_CURRENT_DESKTOP "niri"
@@ -195,7 +198,6 @@ window-rule {
     match app-id=r#"^galculator$"#
     match app-id=r#"^blueman-manager$"#
     match app-id=r#"^org\.gnome\.Nautilus$"#
-    match app-id=r#"^steam$"#
     match app-id=r#"^xdg-desktop-portal$"#
     open-floating true
 }
@@ -223,7 +225,7 @@ window-rule {
 binds {
     // === System & Overview ===
     Mod+D { spawn "niri" "msg" "action" "toggle-overview"; }
-    Mod+O repeat=false { toggle-overview; }
+    Mod+O { spawn "obsidian"; }
     Mod+Shift+Slash { show-hotkey-overlay; }
     
     // === Application Launchers ===
@@ -375,6 +377,13 @@ binds {
     // === System Controls ===
     Mod+Escape allow-inhibiting=false { toggle-keyboard-shortcuts-inhibit; }
     Mod+Shift+P { power-off-monitors; }
+
+    // === niriswitcher ===
+//    Alt+Tab repeat=false { spawn "niriswitcherctl" "show" "--window"; }
+//    Alt+Shift+Tab repeat=false { spawn "niriswitcherctl" "show" "--window"; }
+//    Alt+Grave repeat=false { spawn "niriswitcherctl" "show" "--workspace"; }
+//    Alt+Shift+Grave repeat=false { spawn "niriswitcherctl" "show" "--workspace"; }
+    Alt+Tab { spawn "niri-switch"; }
 }
 {{ if eq .chezmoi.hostname "deskbrauni" }}
 include "deskbrauni.kdl"

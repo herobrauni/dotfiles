@@ -52,6 +52,8 @@ packages:
     - nautilus
     - ncdu
     - niri-git
+    - niri-screen-time-git
+    - niriswitcher
     - nushell
     - obsidian
     - proton-cachyos
