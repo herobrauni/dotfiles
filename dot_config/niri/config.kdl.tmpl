@@ -1,3 +1,16 @@
+// === INCLUDES ===
+{{ if eq .chezmoi.hostname "deskbrauni" }}
+include "deskbrauni.kdl"
+{{ else if eq .chezmoi.hostname "envy" }}
+include "envy.kdl"
+{{ end }}
+// include "noctalia.kdl"
+include "dms/binds.kdl"
+include "dms/colors.kdl"
+include "dms/layout.kdl"
+// === INCLUDES OVER ===
+
+
 // This config is in the KDL format: https://kdl.dev
 // "/-" comments out the following node.
 // Check the wiki for a full description of the configuration:
@@ -381,13 +394,8 @@ binds {
     // === niriswitcher ===
     Alt+Tab repeat=false { spawn "niriswitcherctl" "show" "--window"; }
     Alt+Shift+Tab repeat=false { spawn "niriswitcherctl" "show" "--window"; }
+
+    // === DMS ===
+    Mod+N hotkey-overlay-title="Notepad" { spawn "dms" "ipc" "call" "notepad" "toggle"; }
+    Mod+Shift+N hotkey-overlay-title="Notification Center" { spawn "dms" "ipc" "call" "notifications" "toggle"; }
 }
-{{ if eq .chezmoi.hostname "deskbrauni" }}
-include "deskbrauni.kdl"
-{{ else if eq .chezmoi.hostname "envy" }}
-include "envy.kdl"
-{{ end }}
-// include "noctalia.kdl"
-include "dms/binds.kdl"
-include "dms/colors.kdl"
-include "dms/layout.kdl"
