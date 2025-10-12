@@ -1,9 +1,9 @@
-[".config/quickshell/dms"]
-    type = "archive"
-    url = "https://github.com/AvengeMedia/DankMaterialShell/archive/master.tar.gz"
-    exact = true
-    stripComponents = 1
-    refreshPeriod = "24h"
+#[".config/quickshell/dms"]
+#    type = "archive"
+#    url = "https://github.com/AvengeMedia/DankMaterialShell/archive/master.tar.gz"
+#    exact = true
+#    stripComponents = 1
+#    refreshPeriod = "24h"
 
 
 [".config/DankMaterialShell/plugins"]
