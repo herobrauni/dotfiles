@@ -3,7 +3,7 @@ packages:
     - age
     - aichat
     - ansible
-    - atuin-git
+    - atuin
     - backrest
     - bat
     - brightnessctl
