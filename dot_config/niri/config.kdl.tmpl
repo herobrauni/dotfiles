@@ -121,7 +121,7 @@ spawn-at-startup "dms" "run"
 spawn-at-startup "/usr/lib/mate-polkit/polkit-mate-authentication-agent-1"
 // === PLUGINS ===
 spawn-at-startup "niri-screen-time" "-daemon"
-spawn-at-startup "niri-switch-daemon"
+spawn-at-startup "niriswitcher"
 
 environment {
   XDG_CURRENT_DESKTOP "niri"
@@ -379,11 +379,8 @@ binds {
     Mod+Shift+P { power-off-monitors; }
 
     // === niriswitcher ===
-//    Alt+Tab repeat=false { spawn "niriswitcherctl" "show" "--window"; }
-//    Alt+Shift+Tab repeat=false { spawn "niriswitcherctl" "show" "--window"; }
-//    Alt+Grave repeat=false { spawn "niriswitcherctl" "show" "--workspace"; }
-//    Alt+Shift+Grave repeat=false { spawn "niriswitcherctl" "show" "--workspace"; }
-    Alt+Tab { spawn "niri-switch"; }
+    Alt+Tab repeat=false { spawn "niriswitcherctl" "show" "--window"; }
+    Alt+Shift+Tab repeat=false { spawn "niriswitcherctl" "show" "--window"; }
 }
 {{ if eq .chezmoi.hostname "deskbrauni" }}
 include "deskbrauni.kdl"
