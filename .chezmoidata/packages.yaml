@@ -17,12 +17,14 @@ packages:
     - deezer
     - dgop-bin
     - docker
+    - docker-compose
     - duf
     - dust
     - eza
     - fd
     - fish
     - fluxcd
+    - freerdp
     - fzf
     - gamescope
     - gammastep
