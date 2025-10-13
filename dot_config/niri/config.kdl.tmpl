@@ -41,8 +41,10 @@ input {
     }
     touchpad {
 	tap
+	accel-profile "flat"
     }
     mouse {
+	accel-profile "flat"
     }
     trackpoint {
     }
@@ -253,6 +255,9 @@ binds {
     
     // === Security ===
     Mod+Shift+E { quit; }
+
+    // === Perplexity ===
+    Mod+P hotkey-overlay-title="Perplexity" { spawn "perplexity"; }
     
     // === Window Management ===
     Mod+Q repeat=false { close-window; }

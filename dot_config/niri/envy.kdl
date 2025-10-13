@@ -8,4 +8,9 @@
 // Outputs from existing configuration
 output "eDP-1" {
     mode "1920x1080@59.997"
+    position x=0 y=0
+}
+output "Acer Technologies XG270HU T1T00000SL00" {
+    mode "2560x1440@144.006"
+    position x=1920 y=-600
 }
