@@ -2,6 +2,7 @@
   "currentThemeName": "cat-mauve",
   "customThemeFile": "",
   "matugenScheme": "scheme-tonal-spot",
+  "runUserMatugenTemplates": true,
   "dankBarTransparency": 1,
   "dankBarWidgetTransparency": 1,
   "popupTransparency": 1,
@@ -9,8 +10,8 @@
   "use24HourClock": true,
   "useFahrenheit": false,
   "nightModeEnabled": false,
-  "weatherLocation": "New York, NY",
-  "weatherCoordinates": "40.7128,-74.0060",
+  "weatherLocation": "Nürnberg, Bayern",
+  "weatherCoordinates": "49.4538720,11.0772980",
   "useAutoLocation": false,
   "weatherEnabled": true,
   "showLauncherButton": true,
@@ -75,10 +76,10 @@
       "width": 50
     }
   ],
-  "showWorkspaceIndex": false,
+  "showWorkspaceIndex": true,
   "showWorkspacePadding": true,
-  "showWorkspaceApps": false,
-  "maxWorkspaceIcons": 3,
+  "showWorkspaceApps": true,
+  "maxWorkspaceIcons": 5,
   "workspacesPerMonitor": true,
   "workspaceNameIcons": {
     "chat": {
@@ -135,7 +136,7 @@
   "monoFontFamily": "Fira Code",
   "fontWeight": 400,
   "fontScale": 1,
-  "dankBarFontScale": 1,
+  "dankBarFontScale": 1.3000000000000003,
   "notepadUseMonospace": true,
   "notepadFontFamily": "",
   "notepadFontSize": 14,
