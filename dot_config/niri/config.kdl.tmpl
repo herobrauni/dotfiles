@@ -4,10 +4,10 @@ include "deskbrauni.kdl"
 {{ else if eq .chezmoi.hostname "envy" }}
 include "envy.kdl"
 {{ end }}
-include "noctalia.kdl"
-// include "dms/binds.kdl"
-// include "dms/colors.kdl"
-// include "dms/layout.kdl"
+// include "noctalia.kdl"
+include "dms/binds.kdl"
+include "dms/colors.kdl"
+include "dms/layout.kdl"
 // === INCLUDES OVER ===
 
 
@@ -228,6 +228,7 @@ window-rule {
 }
 window-rule { 
     match is-active=false
+    exclude app-id="zen"
     opacity 0.9
 }
 window-rule {
@@ -296,8 +297,8 @@ binds {
     
     // === Monitor Navigation ===
     Mod+Ctrl+Left  { focus-monitor-left; }
-    //Mod+Ctrl+Down  { focus-monitor-down; }
-    //Mod+Ctrl+Up    { focus-monitor-up; }
+    Mod+Ctrl+Down  { focus-monitor-down; }
+    Mod+Ctrl+Up    { focus-monitor-up; }
     Mod+Ctrl+Right { focus-monitor-right; }
     Mod+Ctrl+H     { focus-monitor-left; }
     Mod+Ctrl+J     { focus-monitor-down; }
@@ -402,7 +403,11 @@ binds {
     Alt+Tab repeat=false { spawn "niriswitcherctl" "show" "--window"; }
     Alt+Shift+Tab repeat=false { spawn "niriswitcherctl" "show" "--window"; }
 
+    // === noctalia ===
+    // Mod+Alt+L { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "lockScreen" "toggle"; }
+    // Mod+Alt+C { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "launcher" "calculator"; }
+
     // === DMS ===
-    // Mod+N hotkey-overlay-title="Notepad" { spawn "dms" "ipc" "call" "notepad" "toggle"; }
-    // Mod+Shift+N hotkey-overlay-title="Notification Center" { spawn "dms" "ipc" "call" "notifications" "toggle"; }
+    Mod+N hotkey-overlay-title="Notepad" { spawn "dms" "ipc" "call" "notepad" "toggle"; }
+    Mod+Shift+N hotkey-overlay-title="Notification Center" { spawn "dms" "ipc" "call" "notifications" "toggle"; }
 }
