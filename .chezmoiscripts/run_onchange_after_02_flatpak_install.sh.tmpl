@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Flatpak hash: {{ include "../dot_config/flatpaks" | sha256sum }}
+# Flatpak hash: {{ include "dot_config/flatpaks" | sha256sum }}
 {{   if (.chezmoi.kernel.osrelease | lower | contains "microsoft") }}
 echo "WSL System, cant install Flatpaks"
 {{   else }}
