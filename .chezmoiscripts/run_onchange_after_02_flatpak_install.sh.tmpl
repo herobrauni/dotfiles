@@ -4,6 +4,7 @@
 {{   if (.chezmoi.kernel.osrelease | lower | contains "microsoft") }}
 echo "WSL System, cant install Flatpaks"
 {{   else }}
+flatpak remote-delete fedora
 flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 while IFS= read -r flatpak; do

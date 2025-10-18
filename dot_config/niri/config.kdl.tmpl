@@ -4,10 +4,10 @@ include "deskbrauni.kdl"
 {{ else if eq .chezmoi.hostname "envy" }}
 include "envy.kdl"
 {{ end }}
-// include "noctalia.kdl"
-include "dms/binds.kdl"
-include "dms/colors.kdl"
-include "dms/layout.kdl"
+include "noctalia.kdl"
+// include "dms/binds.kdl"
+// include "dms/colors.kdl"
+// include "dms/layout.kdl"
 // === INCLUDES OVER ===
 
 
@@ -131,9 +131,9 @@ overview {
 // === Noctalia ===
 // spawn-at-startup "qs" "-c" "noctalia-shell"
 // === DMS ===
-spawn-at-startup "dms" "run"
+// spawn-at-startup "dms" "run"
 spawn-at-startup "bash" "-c" "wl-paste --watch cliphist store &"
-spawn-at-startup "/usr/lib/mate-polkit/polkit-mate-authentication-agent-1"
+// spawn-at-startup "/usr/lib/mate-polkit/polkit-mate-authentication-agent-1"
 // === PLUGINS ===
 spawn-at-startup "niri-screen-time" "-daemon"
 spawn-at-startup "niriswitcher"
@@ -408,6 +408,6 @@ binds {
     // Mod+Alt+C { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "launcher" "calculator"; }
 
     // === DMS ===
-    Mod+N hotkey-overlay-title="Notepad" { spawn "dms" "ipc" "call" "notepad" "toggle"; }
-    Mod+Shift+N hotkey-overlay-title="Notification Center" { spawn "dms" "ipc" "call" "notifications" "toggle"; }
+    // Mod+N hotkey-overlay-title="Notepad" { spawn "dms" "ipc" "call" "notepad" "toggle"; }
+    // Mod+Shift+N hotkey-overlay-title="Notification Center" { spawn "dms" "ipc" "call" "notifications" "toggle"; }
 }
