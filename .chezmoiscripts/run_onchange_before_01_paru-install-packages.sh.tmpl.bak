@@ -1,2 +1,0 @@
-#!/bin/bash
-paru --needed -S {{ range .packages.paru -}}{{.}} {{ end -}}
