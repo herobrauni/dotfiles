@@ -13,3 +13,9 @@
     stripComponents = 1
     refreshPeriod = "24h"
     include = ["*/DankPomodoroTimer/**"]
+
+[".local/bin/backrest"]
+    type = "archive-file"
+    url = "https://github.com/garethgeorge/backrest/releases/latest/download/backrest_Linux_x86_64.tar.gz"
+    path = "backrest"
+    refreshPeriod = "24h"
