@@ -38,9 +38,9 @@ packages:
     - github-cli
     - go-task
     - gping
-    - greetd
     - gtop
-    - qt6ct
+    - gum
+    - qt6ct-kde
     - helix
     - helm
     - helmfile
@@ -67,6 +67,7 @@ packages:
     - rbw
     - remmina
     - ripgrep
+    - sddm
     - sbctl
     - sops
     - starship
@@ -75,7 +76,7 @@ packages:
     - talhelper
     - talosctl
     - tealdeer
-    - teams-for-linux
+    - teams-for-linux-bin
     - telegram-desktop
     - thunderbird
     - tree
