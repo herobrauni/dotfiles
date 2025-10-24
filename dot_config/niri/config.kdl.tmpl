@@ -137,6 +137,7 @@ spawn-at-startup "/usr/lib/mate-polkit/polkit-mate-authentication-agent-1"
 // === PLUGINS ===
 spawn-at-startup "niri-screen-time" "-daemon"
 spawn-at-startup "niriswitcher"
+spawn-at-startup "niri-float-sticky"
 
 environment {
   XDG_CURRENT_DESKTOP "niri"
@@ -405,8 +406,8 @@ binds {
     Alt+Shift+Tab repeat=false { spawn "niriswitcherctl" "show" "--window"; }
 
     // === noctalia ===
-    // Mod+Alt+L { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "lockScreen" "toggle"; }
-    // Mod+Alt+C { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "launcher" "calculator"; }
+    Mod+Alt+L { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "lockScreen" "lock"; }
+    Mod+Alt+C { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "launcher" "calculator"; }
 
     // === DMS ===
     // Mod+N hotkey-overlay-title="Notepad" { spawn "dms" "ipc" "call" "notepad" "toggle"; }
@@ -414,3 +415,7 @@ binds {
 }
 
 include "animations.kdl"
+
+switch-events {
+    lid-close { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "lockScreen" "lock"; }
+}

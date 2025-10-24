@@ -82,6 +82,17 @@
                     "id": "KeepAwake"
                 },
                 {
+                    "id": "WiFi"
+                },
+                {
+                    "id": "PowerProfile"
+                },
+                {
+                    "displayMode": "alwaysShow",
+                    "id": "Battery",
+                    "warningThreshold": 30
+                },
+                {
                     "customFont": "",
                     "formatHorizontal": "HH:mm ddd, MMM dd",
                     "formatVertical": "HH mm - dd MM",
@@ -268,7 +279,8 @@
         "kcolorscheme": true,
         "kitty": true,
         "pywalfox": false,
-        "qt": true
+        "qt": true,
+        "vicinae": false
     },
     "ui": {
         "fontDefault": "Noto Sans",

@@ -16,5 +16,5 @@ binds {
     // Utility shortcuts
     Mod+V { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "launcher" "clipboard"; }
     Mod+C { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "launcher" "calculator"; }
-    Mod+L { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "lockScreen" "toggle"; }
+    Mod+L { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "lockScreen" "lock"; }
 }
