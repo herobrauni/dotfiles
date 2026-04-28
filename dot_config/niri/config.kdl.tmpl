@@ -241,6 +241,10 @@ window-rule {
     geometry-corner-radius 12
     clip-to-geometry true
 }
+window-rule {
+    match title="Steam Big Picture Mode"
+    open-focused true
+}
 binds {
     // === System & Overview ===
     Mod+D { spawn "niri" "msg" "action" "toggle-overview"; }
@@ -412,6 +416,9 @@ binds {
     // === DMS ===
     // Mod+N hotkey-overlay-title="Notepad" { spawn "dms" "ipc" "call" "notepad" "toggle"; }
     // Mod+Shift+N hotkey-overlay-title="Notification Center" { spawn "dms" "ipc" "call" "notifications" "toggle"; }
+
+    Mod+Y { spawn-sh "ln -f -s /home/brauni/.config/niri/deskbrauni_enabled.kdl /home/brauni/.config/niri/deskbrauni.kdl"; }
+    Mod+Z { spawn-sh "ln -f -s /home/brauni/.config/niri/deskbrauni_disabled.kdl /home/brauni/.config/niri/deskbrauni.kdl"; }
 }
 
 include "animations.kdl"
