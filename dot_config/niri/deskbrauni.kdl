@@ -65,3 +65,8 @@ output "Acer Technologies S273HL LQA0C0158001" {
     mode "1920x1080@60.000"
     position x=3440 y=500
 }
+
+output "DP-3" {
+    mode custom=true "3840x2160@120"
+    scale 2.0
+}
