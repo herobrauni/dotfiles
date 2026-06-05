@@ -4,6 +4,7 @@ if status is-interactive
     zoxide init fish | source
     atuin init fish | source
     mise activate fish | source
+    atuin hex init fish | source
 end
 
 

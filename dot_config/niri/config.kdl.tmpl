@@ -252,7 +252,8 @@ binds {
     Mod+Shift+Slash { show-hotkey-overlay; }
     
     // === Application Launchers ===
-    Mod+T hotkey-overlay-title="Open Terminal" { spawn "kitty"; }
+    //Mod+T hotkey-overlay-title="Open Terminal" { spawn "kitty"; }
+    Mod+T hotkey-overlay-title="Open Terminal" { spawn "ghostty"; }
 
     // === Web Browser ===
     Mod+B hotkey-overlay-title="Open Web Browser" { spawn "zen-browser"; } 
@@ -417,8 +418,8 @@ binds {
     // Mod+N hotkey-overlay-title="Notepad" { spawn "dms" "ipc" "call" "notepad" "toggle"; }
     // Mod+Shift+N hotkey-overlay-title="Notification Center" { spawn "dms" "ipc" "call" "notifications" "toggle"; }
 
-    Mod+Y { spawn-sh "ln -f -s /home/brauni/.config/niri/deskbrauni_enabled.kdl /home/brauni/.config/niri/deskbrauni.kdl"; }
-    Mod+Z { spawn-sh "ln -f -s /home/brauni/.config/niri/deskbrauni_disabled.kdl /home/brauni/.config/niri/deskbrauni.kdl"; }
+#    Mod+Y { spawn-sh "ln -f -s /home/brauni/.config/niri/deskbrauni_enabled.kdl /home/brauni/.config/niri/deskbrauni.kdl"; }
+#    Mod+Z { spawn-sh "ln -f -s /home/brauni/.config/niri/deskbrauni_disabled.kdl /home/brauni/.config/niri/deskbrauni.kdl"; }
 }
 
 include "animations.kdl"
