@@ -146,6 +146,9 @@ environment {
   QT_QPA_PLATFORMTHEME_QT6 "qt6ct"
   TERMINAL "kitty"
   GTK_THEME "adw-gtk3-dark"
+  GTK_IM_MODULE "ibus"
+  QT_IM_MODULE "ibus"
+  XMODIFIERS "@im=ibus"
 }
 hotkey-overlay {
     skip-at-startup
@@ -418,8 +421,8 @@ binds {
     // Mod+N hotkey-overlay-title="Notepad" { spawn "dms" "ipc" "call" "notepad" "toggle"; }
     // Mod+Shift+N hotkey-overlay-title="Notification Center" { spawn "dms" "ipc" "call" "notifications" "toggle"; }
 
-#    Mod+Y { spawn-sh "ln -f -s /home/brauni/.config/niri/deskbrauni_enabled.kdl /home/brauni/.config/niri/deskbrauni.kdl"; }
-#    Mod+Z { spawn-sh "ln -f -s /home/brauni/.config/niri/deskbrauni_disabled.kdl /home/brauni/.config/niri/deskbrauni.kdl"; }
+    // Mod+Y { spawn-sh "ln -f -s /home/brauni/.config/niri/deskbrauni_enabled.kdl /home/brauni/.config/niri/deskbrauni.kdl"; }
+    // Mod+Z { spawn-sh "ln -f -s /home/brauni/.config/niri/deskbrauni_disabled.kdl /home/brauni/.config/niri/deskbrauni.kdl"; }
 }
 
 include "animations.kdl"
