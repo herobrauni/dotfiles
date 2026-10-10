@@ -129,7 +129,7 @@ overview {
 // which may be more convenient to use.
 // See the binds section below for more spawn examples.
 // === Noctalia ===
-spawn-at-startup "qs" "-c" "noctalia-shell"
+spawn-at-startup "noctalia"
 // === DMS ===
 // spawn-at-startup "dms" "run"
 spawn-at-startup "bash" "-c" "wl-paste --watch cliphist store &"
@@ -233,6 +233,7 @@ window-rule {
     match is-active=false
     exclude app-id="zen"
     exclude app-id="vesktop"
+    exclude app-id="com.gabm.satty"
     opacity 0.9
 }
 window-rule {
@@ -402,7 +403,8 @@ binds {
     XF86Launch1 { screenshot; }
     Ctrl+XF86Launch1 { screenshot-screen; }
     Alt+XF86Launch1 { screenshot-window; }
-    Print { screenshot; }    
+    //Print { screenshot; }
+    Print hotkey-overlay-title="Screenshot: Edit Area"   { spawn-sh "wayfreeze --hide-cursor & wayfreeze_pid=\"${!}\"; sleep 0.1; image=\"$(grim -t ppm -g \"$(slurp -d)\" - | base64)\"; kill -9 \"${wayfreeze_pid}\"; printf \"${image}\" | base64 --decode | swappy -f -"; }
     Ctrl+Print { screenshot-screen; }
     Alt+Print { screenshot-window; }
     // === System Controls ===

@@ -1,0 +1,86 @@
+# Noctalia v5 config — restored from v4 settings.json (Catppuccin dark setup)
+
+[theme]
+mode = "dark"
+source = "builtin"
+builtin = "Catppuccin"
+
+[shell]
+avatar_path = "/home/brauni/.face"
+font_family = "Noto Sans"
+
+# ─── Bar: same widget layout as before ───
+[bar.default]
+position = "top"
+background_opacity = 0.93
+radius = 0
+concave_edge_corners = false
+margin_ends = 0
+capsule = true
+widget_spacing = 6
+start = [ "tray", "bar-spacer", "taskbar" ]
+center = [ "bar-clock" ]
+end = [ "bluetooth", "notifications", "bar-volume", "brightness", "caffeine", "power_profile", "network", "battery", "control-center" ]
+
+[widget.bar-spacer]
+type = "spacer"
+interactive = false
+
+# old format: "HH:mm ddd, MMM dd"
+[widget.bar-clock]
+type = "clock"
+format = "{:%H:%M %a, %b %d}"
+tooltip_format = "{:%H:%M %a, %b %d}"
+
+# v4-style workspace switcher: every workspace visible as a capsule,
+# each showing the app icons active inside it (taskbar w/ workspace grouping)
+[widget.taskbar]
+type = "taskbar"
+group_by_workspace = true
+show_all_outputs = true
+workspace_group_content = "icons"
+show_workspace_label = false
+icon_scale = 1.1
+
+# old middle-click: pwvucontrol || pavucontrol
+[widget.bar-volume]
+type = "volume"
+
+[widget.bar-volume.actions]
+middle = "exec pwvucontrol || pavucontrol"
+
+# ─── Wallpaper ───
+[wallpaper]
+directory = "/home/brauni/Pictures/Wallpapers"
+fill_mode = "crop"
+
+[wallpaper.automation]
+enabled = true
+interval_seconds = 600
+order = "random"
+
+# ─── OSD top-right like before ───
+[osd]
+position = "top_right"
+
+# ─── Control center shortcuts (old left/right order) ───
+[[control_center.shortcuts]]
+type = "wifi"
+
+[[control_center.shortcuts]]
+type = "bluetooth"
+
+[[control_center.shortcuts]]
+type = "wallpaper"
+
+[[control_center.shortcuts]]
+type = "notification"
+
+[[control_center.shortcuts]]
+type = "power_profile"
+
+[[control_center.shortcuts]]
+type = "caffeine"
+
+[[control_center.shortcuts]]
+type = "nightlight"
