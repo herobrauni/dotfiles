@@ -12,11 +12,12 @@ font_family = "Noto Sans"
 # ─── Bar: same widget layout as before ───
 [bar.default]
 position = "top"
-background_opacity = 0.93
+background_opacity = 0.6
 radius = 0
 concave_edge_corners = false
 margin_ends = 0
 capsule = true
+capsule_opacity = 0.7
 widget_spacing = 6
 start = [ "tray", "bar-spacer", "taskbar" ]
 center = [ "bar-clock" ]
@@ -37,7 +38,7 @@ tooltip_format = "{:%H:%M %a, %b %d}"
 [widget.taskbar]
 type = "taskbar"
 group_by_workspace = true
-show_all_outputs = true
+show_all_outputs = false
 workspace_group_content = "icons"
 show_workspace_label = false
 icon_scale = 1.1

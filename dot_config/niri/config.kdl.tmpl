@@ -403,8 +403,11 @@ binds {
     XF86Launch1 { screenshot; }
     Ctrl+XF86Launch1 { screenshot-screen; }
     Alt+XF86Launch1 { screenshot-window; }
-    //Print { screenshot; }
+    {{ if eq .chezmoi.hostname "envy" }}
     Print hotkey-overlay-title="Screenshot: Edit Area"   { spawn-sh "wayfreeze --hide-cursor & wayfreeze_pid=\"${!}\"; sleep 0.1; image=\"$(grim -t ppm -g \"$(slurp -d)\" - | base64)\"; kill -9 \"${wayfreeze_pid}\"; printf \"${image}\" | base64 --decode | swappy -f -"; }
+    {{ else }}
+    Print hotkey-overlay-title="Screenshot" { screenshot; }
+    {{ end }}
     Ctrl+Print { screenshot-screen; }
     Alt+Print { screenshot-window; }
     // === System Controls ===
