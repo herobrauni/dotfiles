@@ -12,7 +12,7 @@ font_family = "Noto Sans"
 # ─── Bar: same widget layout as before ───
 [bar.default]
 position = "top"
-background_opacity = 0.6
+background_opacity = 0.75
 radius = 0
 concave_edge_corners = false
 margin_ends = 0
@@ -85,3 +85,21 @@ type = "caffeine"
 
 [[control_center.shortcuts]]
 type = "nightlight"
+
+# ─── Idle: OLED protection ───
+# Blank screens after 5 min (DPMS off, pixels fully dark), resume instantly
+# on any input with no password. Lock only after 2 h idle.
+# Ref: https://github.com/noctalia-dev/noctalia/blob/main/docs/user/services/idle.mdx
+[idle]
+behavior_order = ["screen-off", "lock"]
+pre_action_fade_seconds = 5.0   # 5s fade-to-black grace before firing; input cancels it
+
+[idle.behavior.screen-off]
+timeout = 300                   # 5 minutes
+action = "screen_off"
+enabled = true
+
+[idle.behavior.lock]
+timeout = 7200                  # 2 hours
+action = "lock"
+enabled = true
